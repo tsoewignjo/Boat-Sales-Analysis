@@ -1,0 +1,1793 @@
+,Boat Type,Length,Width,Views,Price_USD,Country,City,t3,Age
+0,Motor Yacht,4.0,1.9,226,3667.363,Switzerland , Lake Geneva ,new,7
+1,Center console boat,4.0,1.5,75,3751.75,Germany , Bnningstedt,new,4
+3,Sport Boat,3.0,1.0,64,3703.7,Denmark , Svendborg,new,4
+4,Fishing Boat,3.55,1.46,58,3653.9249999999997,Germany , Bayern ,new,5
+8,Fishing Boat,3.64,1.37,45,3582.975,Germany , Bayern ,new,5
+9,Pontoon Boat,4.35,1.73,180,3547.5,Italy , Dormelletto ,new,6
+13,Runabout,4.4,1.65,113,5055.4,Switzerland , Zugersee ,new,4
+20,Fishing Boat,3.55,1.46,69,4298.925,Germany , Bayern ,new,5
+22,Sport Boat,4.31,1.64,90,4224.75,Germany , Nordrhein-Westfalen ,new,4
+27,Fishing Boat,3.55,1.46,130,4428.97,Switzerland , Vierwaldst¤ttersee ,new,6
+29,Fishing Boat,4.01,1.5,512,4368.525,Switzerland , Horgen,new,4
+41,Working Boat,3.88,1.49,54,6462.5,United Kingdom ," Burton Waters, Burton Waters",new,5
+43,Sport Boat,5.2,2.2,186,5912.5,Germany , Berlin ,new,6
+47,Sport Boat,4.3,1.75,57,5858.75,Italy , Lake Garda ,new,6
+49,Fishing Boat,4.01,1.64,67,5803.925,Germany , Bayern ,new,6
+53,Fishing Boat,4.2,1.85,141,5590.0,Germany , Erftstadt,new,4
+55,Runabout,4.0,1.65,99,6044.5,Switzerland , Zugersee ,new,4
+61,Deck Boat,5.7,2.2,122,6987.5,Germany , Berlin ,new,6
+70,Sport Boat,5.2,2.06,119,8385.0,Italy , Lake Garda ,new,5
+75,Bowrider,4.45,1.85,462,8962.345,Switzerland , Horgen,new,4
+85,Sport Boat,4.4,1.65,96,9449.25,Germany , Bayern ,new,5
+88,Sport Boat,5.3,2.2,166,9245.0,Italy , Lake Garda ,new,6
+89,Sport Boat,4.8,1.9,873,10182.235,Switzerland , Lake of Zurich ,new,4
+91,Deck Boat,5.53,2.18,221,9137.5,Italy , Lago,new,6
+108,Sport Boat,4.88,2.03,64,10293.125,Germany , Grevenbroich,new,8
+110,Motor Yacht,4.8,2.0,91,10269.475,Netherlands , Lemmer,new,5
+112,Sport Boat,5.7,2.1,184,10212.5,Italy , Lombardia - Trentino Alto Adige ,new,5
+120,Sport Boat,4.99,2.1,115,10873.625,Germany , Wesel,new,4
+121,Runabout,4.5,1.65,159,11979.1,Switzerland , Zugersee ,new,4
+125,Sport Boat,5.9,2.38,155,10750.0,Italy , Lake Garda ,new,6
+143,Deck Boat,5.07,2.12,150,11823.925,Germany , Kieler Bucht mit Fehmarn ,new,4
+144,Sport Boat,5.1,2.1,255,11823.925,Germany , Nordrhein-Westfalen ,new,4
+145,Sport Boat,5.2,2.22,179,11823.925,Germany , Nordrhein-Westfalen ,new,4
+155,Sport Boat,4.6,1.8,133,12889.25,Germany , Erftstadt,new,5
+157,Sport Boat,5.3,2.39,284,14232.05,Switzerland , Kesswil ,new,5
+158,Sport Boat,4.0,1.0,166,12726.999999999998,Denmark , Svendborg,new,5
+159,Launch,4.0,2.0,134,12726.999999999998,Denmark , Svendborg,new,4
+160,Runabout,5.0,1.9,273,14177.1,Switzerland , Zugersee ,new,4
+165,Bowrider,4.9,1.9,180,13727.75,Germany , Lake Constance ,new,4
+166,Launch,4.0,1.0,67,13583.57,Denmark , Svendborg,new,4
+167,Deck Boat,5.7,2.25,97,13706.25,Germany , DE,new,4
+170,Deck Boat,5.0,2.0,147,13437.5,Italy , Friuli Venezia Giulia ,new,5
+179,Deck Boat,5.0,2.0,35,14716.75,Slovak Republic ," Bratislava, Slovaquie",new,10
+180,Bowrider,4.57,1.93,212,16155.3,Switzerland , Vierwaldst¤ttersee ,new,6
+181,Sport Boat,5.7,2.1,214,14583.449999999999,Germany , DE,new,5
+195,Fishing Boat,5.76,2.25,292,17144.4,Switzerland , Lake Geneva ,new,4
+197,Runabout,4.9,2.08,119,15443.449999999999,Germany , Lake Constance ,new,6
+199,Motor Yacht,4.52,1.9,220,16924.6,Switzerland , Lake Geneva ,new,5
+201,Sport Boat,5.68,1.99,285,15265.0,Switzerland , Diessenhoen,new,5
+205,Sport Boat,5.6,2.35,70,15050.0,Italy , Lake Garda ,new,6
+209,Sport Boat,4.7,1.85,156,16017.5,Germany , Stadtprozelten,new,10
+211,Pontoon Boat,5.55,2.18,87,16017.5,Italy , Dormelletto ,new,4
+212,Fishing Boat,4.7,1.95,70,16017.5,Germany , Berlin ,new,5
+219,Pontoon Boat,5.55,2.18,80,16017.5,Switzerland , Lugano ,new,4
+223,Deck Boat,5.53,2.18,50,16662.5,Italy , Venezia,new,4
+229,Cabin Boat,5.5,2.29,219,16661.425,Germany , Kieler Bucht mit Fehmarn ,new,4
+230,Deck Boat,5.0,2.0,71,16651.75,Slovak Republic ," Bratislava, Slovaquie",new,7
+231,Center console boat,5.48,2.36,56,16604.45,Germany , Bnningstedt / Werft,new,4
+233,Center console boat,6.0,2.25,116,16555.0,Italy , Lombardia - Trentino Alto Adige ,new,5
+237,Center console boat,4.57,1.83,53,18687.5,United Kingdom ," Lincoln, Lincoln",new,6
+238,Fishing Boat,4.7,2.02,341,19434.716,Switzerland , Bouveret,new,4
+242,Center console boat,5.48,2.36,99,17436.5,Germany , Bnningstedt / Werft,new,4
+245,Sport Boat,5.15,2.08,60,17404.25,Germany , auf Anfrage,new,5
+247,Pilothouse,6.4,2.25,399,19122.6,Switzerland , Lake Geneva ,new,4
+248,Center console boat,5.0,2.0,149,19122.6,Switzerland , Vierwaldst¤ttersee ,new,5
+249,Deck Boat,4.0,1.0,50,17088.5,Denmark , Svendborg,new,4
+262,Sport Boat,5.53,2.24,127,18135.25,Germany , Nordrhein-Westfalen ,new,4
+263,Center console boat,5.83,2.03,247,20012.79,Switzerland , Thunersee ,new,4
+264,Fishing Boat,4.95,2.03,241,20001.8,Switzerland , Lake Geneva ,new,4
+275,Fishing Boat,5.0,1.94,215,20771.1,Switzerland , Bouveret,new,5
+297,Center console boat,6.15,2.27,149,20156.25,Germany , Lake Constance ,new,4
+300,Center console boat,6.1,2.4,324,20091.75,Switzerland , Lake Geneva ,new,4
+306,Fishing Boat,6.4,2.25,185,22089.899999999998,Switzerland , Lake Geneva ,new,4
+307,Runabout,5.0,1.9,401,21870.1,Switzerland , Zugersee ,new,4
+309,Center console boat,4.0,2.0,95,19705.399999999998,Denmark , Svendborg,new,4
+310,Sport Boat,4.86,1.96,145,19903.625,Germany , Nordrhein-Westfalen ,new,4
+319,Motor Yacht,4.99,1.97,183,23024.05,Switzerland , Lake Geneva ,new,6
+321,Center console boat,5.1,2.1,117,20747.5,Germany , Baden-W¼rttemberg ,new,4
+322,Pontoon Boat,9.0,1.7,235,22859.2,Switzerland , Beringen,new,4
+323,Deck Boat,6.12,2.44,217,21392.5,Italy , Friuli Venezia Giulia ,new,5
+324,Sport Boat,4.78,1.95,121,21392.5,Germany , Boote Pfister / Schwebheim,new,6
+339,Pilothouse,5.75,2.54,153,22036.425,Germany , Kieler Bucht mit Fehmarn ,new,4
+340,Sport Boat,6.08,2.37,115,22026.75,Germany , Nordrhein-Westfalen ,new,6
+341,Center console boat,5.3,2.15,118,24298.89,Switzerland , Vierwaldst¤ttersee ,new,4
+354,Pilothouse,5.64,2.45,73,23000.7,Germany , Bnningstedt / Werft,new,4
+357,Pilothouse,6.6,2.47,394,25277.0,Switzerland , Walensee ,new,5
+362,Sport Boat,5.67,2.25,135,22671.75,Germany , auf Anfrage,new,5
+367,Center console boat,5.03,2.12,62,22575.0,France ," granville, granville",new,4
+385,Sport Boat,5.47,2.29,86,24596.0,Germany , Niedersachsen ,new,4
+386,Deck Boat,5.65,2.2,140,24563.75,Germany , Mhlhausen - Ehingen,new,4
+387,Sport Boat,5.0,2.0,63,24281.399999999998,Denmark , Svendborg,new,4
+388,Deck Boat,5.28,2.09,114,24510.0,Germany , Nordrhein-Westfalen ,new,4
+389,Pontoon Boat,5.18,2.29,87,24479.899999999998,Portugal ," Parchal, Portugal",new,6
+391,Pilothouse,5.79,2.46,49,24472.375,Germany , Bnningstedt,new,4
+399,Deck Boat,6.25,2.3,107,24209.0,Germany , auf Anfrage,new,4
+400,Bowrider,6.06,2.2,109,25413.0,Germany , Grevenbroich,new,7
+402,Sport Boat,4.54,1.85,84,25294.75,Germany , Baden-W¼rttemberg ,new,4
+409,Fishing Boat,6.6,1.85,888,27475.0,Switzerland , Lake Constance ,new,4
+410,Deck Boat,5.6,2.25,84,25036.75,Germany , auf Anfrage,new,5
+415,Sport Boat,5.73,2.2,157,25982.75,Germany , Nordrhein-Westfalen ,new,4
+416,Sport Boat,5.25,1.98,125,25596.999999999996,Denmark , Vores udstilling,new,4
+417,Launch,6.0,2.0,65,25596.999999999996,Denmark , Svendborg,new,4
+420,Fishing Boat,5.3,2.0,198,28519.05,Switzerland , Lago Maggiore ,new,4
+433,Pontoon Boat,6.5,2.4,110,26767.5,Italy , Dormelletto ,new,6
+434,Pontoon Boat,6.05,2.42,69,26767.5,Italy , Dormelletto ,new,5
+443,Pontoon Boat,6.05,2.42,48,26767.5,Switzerland , Locarno ,new,4
+456,Pontoon Boat,6.5,3.0,72,26875.0,Germany , 15754 Heidesee,new,7
+463,Sport Boat,5.3,2.3,64,27842.5,Germany , Hock Boote,new,9
+464,Sport Boat,6.43,2.5,264,27842.5,Germany , Gersthofen,new,5
+469,Center console boat,6.0,2.0,80,27842.5,France ," Rixheim, France",new,6
+477,Pontoon Boat,6.6,2.45,94,28810.0,Italy , Friuli Venezia Giulia ,new,4
+479,Pilothouse,5.1,2.13,138,31761.1,Switzerland , Bouveret,new,7
+480,Center console boat,4.98,2.0,173,31761.1,Switzerland , Vierwaldst¤ttersee ,new,5
+482,Center console boat,5.0,2.0,158,31761.1,Switzerland , Vierwaldst¤ttersee ,new,5
+484,Pontoon Boat,6.5,2.4,97,28702.5,Italy , Dormelletto ,new,4
+486,Pontoon Boat,6.5,2.4,137,28702.5,Switzerland , Zurigo ,new,4
+487,Deck Boat,6.1,2.33,224,28616.5,Italy , Toscana ,new,4
+491,Center console boat,6.77,2.48,55,28527.274999999998,Germany , Bnningstedt,new,4
+493,Fishing Boat,4.6,1.85,191,32420.5,Switzerland , Bielersee ,new,4
+501,Sport Boat,5.07,2.12,56,29154.0,Germany , Baden-W¼rttemberg ,new,4
+503,Fishing Boat,6.28,2.24,228,32090.8,Switzerland , Lake Geneva ,new,4
+508,Working Boat,7.52,2.43,227,29992.5,Germany , Erftstadt,new,4
+509,Sport Boat,6.08,2.37,111,29992.5,Germany , Grevenbroich,new,8
+511,Pilothouse,6.5,2.48,308,29992.5,Germany , Stadtprozelten,new,6
+512,Pontoon Boat,6.05,2.4,41,29992.5,Italy , Dormelletto ,new,5
+513,Deck Boat,6.25,2.28,83,29992.5,France ," BREST, France",new,5
+526,Working Boat,7.65,2.48,252,30637.5,Germany , Erftstadt,new,4
+536,Deck Boat,6.75,2.54,161,31175.0,Italy , Friuli Venezia Giulia ,new,6
+557,Pilothouse,5.89,2.44,66,34062.5,United Kingdom ," Levington, Levington",new,6
+562,Sport Boat,5.07,2.12,102,31873.75,Germany , Baden-W¼rttemberg ,new,5
+582,Bowrider,6.05,2.25,65,33136.875,Germany , Nordrhein-Westfalen ,new,5
+584,Sport Boat,5.07,2.12,62,33131.5,Germany , Baden-W¼rttemberg ,new,4
+585,Motor Yacht,6.05,2.25,71,33120.75,Germany , Nordrhein-Westfalen ,new,5
+590,Bowrider,5.7,2.26,136,33001.424999999996,Germany , Kiel,new,4
+594,Fishing Boat,6.03,1.9,164,35970.27,Switzerland , Lake Constance ,new,6
+595,Cabin Boat,5.5,2.29,92,32787.5,France ," granville, granville",new,4
+604,Bowrider,5.2,2.1,166,34217.25,Switzerland , Vierwaldst¤ttersee ,new,5
+606,House Boat,12.5,4.2,290,34185.0,Poland , Nieuwbouw.,new,4
+607,Deck Boat,6.12,2.4,158,37739.659999999996,Switzerland , Neuenburgersee ,new,4
+611,Pontoon Boat,6.5,2.4,36,34937.5,Italy , Dormelletto,new,5
+614,Runabout,6.99,2.55,81,34937.5,Italy , Lombardia - Trentino Alto Adige ,new,5
+623,Trawler,11.65,3.25,140,34926.75,Germany , Hamburg ,new,44
+634,Sport Boat,6.52,2.44,87,35475.0,Germany , Kiel,new,4
+641,Pilothouse,5.72,2.4,75,36550.0,Spain ," D©nia, Alicante",new,7
+648,Sport Boat,6.8,2.3,82,36496.25,Germany , Nordrhein-Westfalen ,new,4
+649,Launch,7.1,2.5,104,36496.25,Germany , DE,new,4
+650,Sport Boat,7.45,2.49,130,36442.5,Germany , Hock Boote,new,9
+655,Pilothouse,5.64,2.45,31,36442.5,France ," CHERBOURG, France",new,5
+656,Sport Boat,5.5,2.29,97,37517.5,France ," granville, granville",new,4
+660,Center console boat,7.45,2.5,301,37517.5,Switzerland , Lake Geneva ,new,4
+664,Fishing Boat,8.0,2.8,128,37517.5,Netherlands , In verkoophaven,new,24
+668,Pilothouse,6.4,2.45,220,37440.1,Switzerland , Lake Constance ,new,5
+687,Bowrider,6.2,2.34,48,38161.424999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+688,Cabin Boat,5.94,2.4,40,38108.75,Germany , Niedersachsen ,new,4
+689,Center console boat,5.56,2.26,27,38075.424999999996,France ," PLUNERET, France",new,4
+690,Sport Boat,6.9,1.78,106,38055.0,Switzerland , Lake Constance ,new,4
+691,Bowrider,5.7,2.26,131,37893.75,Germany , Kiel,new,4
+702,Sport Boat,6.58,2.38,283,41707.049999999996,Switzerland , Vierwaldst¤ttersee ,new,5
+704,Center console boat,7.74,2.52,65,39145.049999999996,Germany , Bnningstedt,new,4
+707,Pilothouse,6.8,2.35,103,39022.5,Germany , Bitte Anfragen,new,4
+708,Deck Boat,6.0,2.0,32,38610.0,Denmark , Svendborg,new,5
+709,Bowrider,5.73,2.29,131,43102.78,Switzerland , Neuenburgersee ,new,4
+712,Cabin Boat,6.02,2.34,269,43047.83,Switzerland , Neuenburgersee ,new,4
+714,Bowrider,5.0,2.0,90,38467.0,Denmark , Svendborg,new,4
+715,Trawler,7.5,2.5,166,42861.0,Switzerland , Lake of Zurich ,new,6
+719,Bowrider,6.06,2.2,172,44464.441,Switzerland , Vierwaldst¤ttersee ,new,5
+721,Motor Yacht,6.74,2.55,194,44278.71,Switzerland , Neuenburgersee ,new,4
+723,Sport Boat,5.94,2.4,144,44003.96,Switzerland , Lake Constance ,new,5
+725,Pilothouse,6.4,2.4,109,39775.0,Germany , auf Anfrage,new,4
+737,Sport Boat,6.0,2.34,91,40850.0,Germany , Gummersbach,new,4
+754,Bowrider,5.94,2.29,113,41817.5,Germany , Boote Pfister GmbH Schwebheim/Schweinfurt,new,4
+759,Bowrider,6.0,2.0,153,41327.0,Denmark , Svendborg,new,5
+761,Pilothouse,7.43,2.81,60,41703.549999999996,Germany , Bnningstedt,new,4
+762,Pilothouse,6.0,2.0,73,41654.1,Spain ," Huelva, Espagne",new,6
+763,Center console boat,5.56,2.23,85,41602.5,France ," LA GRANDE MOTTE, France",new,4
+766,Bowrider,5.49,2.2,300,46454.729999999996,Switzerland , Lake Geneva ,new,4
+767,Pilothouse,6.05,2.32,164,41925.0,Germany , Nordrhein-Westfalen ,new,4
+777,Pilothouse,8.5,2.8,65,41925.0,France ," Lorient, France",new,6
+780,Pilothouse,6.6,2.5,50,42879.6,Germany , Nordrhein-Westfalen ,new,5
+782,Center console boat,6.04,2.26,70,42785.0,France ," ARZON, France",new,4
+785,Sport Boat,6.4,2.25,52,42615.15,Germany , Neustadt in Holstein,new,6
+789,Deck Boat,7.8,2.45,118,42559.25,Italy , Venezia,new,5
+790,Sport Boat,6.8,2.49,66,42462.5,Germany , Hock Boote,new,14
+794,Cabin Boat,5.75,2.54,84,42998.924999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+797,Bowrider,5.94,2.54,43,42989.25,Germany , Bayern ,new,5
+798,Pilothouse,6.2,2.44,41,42989.25,France ," Chalon-sur-Sa´ne, France",new,4
+802,Sport Boat,8.4,2.8,155,42946.25,Germany , DE,new,4
+804,Pilothouse,5.52,2.4,38,42916.15,Portugal ," Parchal, Portugal",new,5
+809,Pilothouse,7.76,2.85,208,44073.924999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+810,Center console boat,5.56,2.23,28,43967.5,France ," PORNICHET, France",new,4
+812,Pilothouse,6.5,2.4,90,43860.0,France ," AQUITAINE, AQUITAINE",new,5
+815,Sport Boat,5.5,2.29,83,43698.75,Germany , Lake Constance ,new,4
+816,Sport Boat,5.1,2.3,93,47806.5,Switzerland , Spiez,new,16
+818,Pilothouse,5.77,2.44,39,46160.0,United Kingdom ," Lincoln, Lincoln",new,4
+821,Bowrider,5.7,2.15,114,43440.75,Germany , Lake Constance ,new,4
+823,Sport Boat,6.0,2.0,105,42757.0,Denmark , Svendborg,new,4
+827,Sport Boat,5.99,2.21,82,45042.5,Germany , Bayern ,new,5
+829,Sport Boat,5.7,2.38,64,45042.5,Germany , Bayern ,new,4
+830,Center console boat,5.56,2.23,29,45042.5,France ," PORNICHET, France",new,4
+832,Center console boat,6.7,2.45,104,45031.75,Germany , Herford,new,4
+833,Passenger boat,8.0,3.0,144,45025.299999999996,Portugal ," Portim£o, Portugal",new,4
+834,Sport Boat,6.15,2.27,168,49345.1,Switzerland , Lake of Zurich ,new,11
+835,Deck Boat,6.0,2.0,54,44898.45,Spain ," Palma, Espagne",new,6
+836,Cabin Boat,7.23,2.55,55,44790.95,Germany , Niedersachsen ,new,4
+840,Pilothouse,5.52,2.4,52,45687.5,Spain ," Hospitalet del Infante, Espagne",new,6
+843,Deck Boat,7.88,2.55,176,45686.424999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+846,Deck Boat,7.0,2.5,200,45472.5,Italy , Toscana ,new,4
+848,Bowrider,5.73,2.29,257,50224.299999999996,Switzerland , Lake Constance ,new,5
+850,Sport Boat,6.66,2.55,66,45365.0,Germany , Niedersachsen ,new,4
+852,Sport Boat,7.15,2.45,222,51122.183,Switzerland , Lake of Zurich ,new,4
+880,Bowrider,6.48,2.46,62,47298.924999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+884,Deck Boat,6.4,2.48,51,48267.5,France ," LA ROCHELLE, LA ROCHELLE",new,5
+887,Sport Boat,5.7,2.38,60,48267.5,Germany , Bayern ,new,4
+910,Passenger boat,7.25,2.5,170,48375.0,Switzerland , Lake Geneva ,new,5
+916,Fishing Boat,5.75,2.54,202,53741.1,Switzerland , Lake Geneva ,new,4
+919,Sport Boat,6.45,2.5,123,53620.21,Switzerland , Luganersee ,new,5
+930,Fishing Boat,5.7,2.3,201,54914.832,Switzerland , Villarepos,new,4
+931,Sport Boat,6.48,2.46,62,49665.0,Germany , Niedersachsen ,new,4
+933,Cabin Boat,5.7,2.5,209,54840.1,Switzerland , Lake Geneva ,new,6
+936,Bowrider,6.1,2.34,234,54840.1,Switzerland , Vierwaldst¤ttersee ,new,4
+945,Sport Boat,6.99,2.56,97,50632.5,Germany , Niedersachsen ,new,4
+946,Cabin Boat,6.4,2.38,156,55939.1,Switzerland , Lago Maggiore ,new,4
+955,Center console boat,6.31,2.48,31,50525.0,France ," GRANVILLE, France",new,4
+997,Motor Yacht,7.46,2.55,70,53211.424999999996,Germany , Nordrhein-Westfalen ,new,6
+998,Pilothouse,8.23,2.79,91,53201.75,Austria , Wiener Neustadt,new,4
+1005,Sport Boat,7.28,2.5,59,52997.5,Germany , im Vorlauf,new,5
+1011,Cabin Boat,6.5,2.55,119,53642.5,Germany , Stadtprozelten ,new,4
+1013,Cabin Boat,6.35,2.29,89,53631.75,Germany , Ostsee ,new,4
+1014,Bowrider,5.99,2.21,194,59258.08,Switzerland , Luganersee ,new,4
+1015,Pilothouse,6.6,2.48,186,59236.1,Switzerland , Vierwaldst¤ttersee ,new,5
+1016,Bowrider,5.94,2.54,70,53588.75,Germany , Bayern ,new,5
+1017,Sport Boat,5.97,2.54,54,53588.75,Germany , Bayern ,new,5
+1025,Deck Boat,8.0,2.5,90,53748.924999999996,Turkey , onbekend,new,7
+1026,Sport Boat,5.97,2.54,67,53748.924999999996,Germany , Bayern ,new,5
+1027,Sport Boat,6.52,2.44,64,53748.924999999996,Germany , Kiel,new,4
+1035,Pilothouse,7.48,2.53,164,53695.174999999996,Switzerland , Bielersee ,new,5
+1036,Center console boat,6.96,2.5,140,54450.899999999994,Portugal ," Parchal, Portugal",new,5
+1037,Bowrider,6.25,2.2,56,54384.25,Germany , Ostsee ,new,4
+1039,Sport Boat,5.94,2.54,99,54244.5,Germany , Berlin ,new,5
+1040,Bowrider,6.25,2.44,74,57437.5,United Kingdom ," LINCOLN, Royaume Uni",new,7
+1043,Pilothouse,6.71,2.54,74,54083.25,France ," LA GRANDE MOTTE, France",new,4
+1045,Deck Boat,6.86,2.52,50,53965.0,France ," LA ROCHELLE, France",new,5
+1047,Cabin Boat,7.15,2.48,281,59440.513999999996,Switzerland , Bouveret,new,4
+1052,Bowrider,7.23,2.55,161,61840.729999999996,Switzerland , Neuenburgersee ,new,4
+1053,Pilothouse,6.77,2.54,270,55900.0,Germany , auf Anfrage,new,4
+1069,Deck Boat,6.86,2.46,70,61187.5,United Kingdom ," Swanwick, Swanwick",new,5
+1071,Center console boat,7.26,2.48,129,57671.6,Austria , Wr. Neustadt,new,4
+1072,Sport Boat,6.0,2.0,63,57056.99999999999,Denmark , Svendborg,new,5
+1074,Bowrider,5.99,2.21,153,57582.375,Germany , Baden-W¼rttemberg ,new,4
+1077,Bowrider,6.48,2.46,44,57511.424999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+1088,Pilothouse,7.48,2.53,218,58576.75,Germany , 86368 Gersthofen  - Augsburg,new,5
+1089,Motor Yacht,6.74,2.55,187,64731.1,Switzerland , Neuenburgersee ,new,4
+1090,Bowrider,5.94,2.54,82,58447.75,Germany , Berlin ,new,4
+1091,Sport Boat,5.94,2.54,36,58447.75,Germany , Berlin ,new,4
+1092,Sport Boat,5.94,2.54,79,58447.75,Germany , Berlin ,new,4
+1093,Bowrider,5.94,2.54,101,58447.75,Germany , Berlin ,new,4
+1095,Sport Boat,6.99,2.56,71,58200.5,France ," granville, granville",new,4
+1097,Cabin Boat,6.2,2.4,317,58163.95,Germany , Lake Constance ,new,4
+1098,Bowrider,5.94,2.54,95,58125.25,Germany , Berlin ,new,6
+1110,Pilothouse,7.76,2.86,348,59123.924999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+1132,Pilothouse,7.48,2.53,24,60200.0,France ," Antibes, Antibes",new,5
+1138,Center console boat,7.26,2.48,52,60200.0,France ," LES SABLES OLONNE, France",new,4
+1141,Center console boat,7.26,2.48,85,60200.0,France ," SAINT GILLES CROIX DE VIE, France",new,4
+1142,Bowrider,5.49,2.31,180,66438.946,Switzerland , Stansstad,new,5
+1145,Bowrider,8.4,2.8,363,61312.625,Germany , Lake Constance ,new,4
+1152,Deck Boat,7.8,2.55,96,61275.0,Italy , Venezia,new,5
+1156,Center console boat,6.86,2.48,28,61275.0,France ," PORNICHET, France",new,4
+1157,Center console boat,6.41,2.48,41,61275.0,France ," Cogolin, France",new,4
+1158,Bowrider,6.82,2.45,67,62457.5,Germany , Bayern ,new,4
+1170,Center console boat,6.41,2.48,47,62350.0,France ," 06600, France",new,4
+1190,Cabin Boat,6.9,2.48,62,63962.5,Germany , Bayern ,new,4
+1192,Sport Boat,7.45,2.5,144,63962.5,Switzerland , Lake Constance ,new,4
+1196,Pilothouse,6.6,2.5,64,63962.5,Slovenia , LJUBLJANA,new,5
+1210,Cabin Boat,6.5,2.5,136,64392.5,Germany , Nordrhein-Westfalen ,new,5
+1217,Sport Boat,6.48,2.46,77,64392.5,Germany , Bayern ,new,4
+1219,Cabin Boat,6.3,2.5,177,64392.5,Germany , Konstanz-Dettingen,new,5
+1222,Bowrider,6.55,2.54,57,64543.0,Germany , Berlin ,new,4
+1223,Bowrider,6.55,2.54,137,64543.0,Germany , Berlin ,new,4
+1224,Bowrider,6.55,2.54,112,64543.0,Germany , Berlin ,new,4
+1225,Bowrider,6.55,2.54,170,64543.0,Germany , Berlin ,new,4
+1237,Deck Boat,8.1,2.5,84,66757.5,Spain ," Ma³-Mah³n, Espagne",new,5
+1246,Sport Boat,7.48,2.53,78,66596.25,Germany , Schleswig-Holstein ,new,4
+1247,Fishing Boat,7.41,2.49,86,66542.5,Germany , Berlin ,new,5
+1248,Pilothouse,7.48,2.53,22,66542.5,France ," LE CROUESTY, LE CROUESTY",new,4
+1249,Sport Boat,6.2,2.4,79,73347.26,Switzerland , Luganersee ,new,4
+1250,Bowrider,6.1,2.5,110,66341.47499999999,Germany , Lake Constance ,new,3
+1252,Bowrider,6.55,2.54,77,68133.5,Germany , Berlin ,new,4
+1253,Bowrider,6.55,2.54,53,68133.5,Germany , Berlin ,new,4
+1255,Sport Boat,6.8,2.55,294,75224.352,Switzerland , Lake Constance ,new,4
+1257,Pilothouse,6.45,2.47,248,67731.45,Switzerland , Stansstad,new,5
+1270,Pilothouse,7.9,2.81,29,69337.5,France ," Andernos, France",new,4
+1273,Sport Boat,6.48,2.46,67,69326.75,Germany , Baden-W¼rttemberg ,new,5
+1274,Runabout,6.9,2.5,90,76615.686,Switzerland , Avenches,new,5
+1276,Sport Boat,7.42,2.5,45,68497.0,Denmark , I vores udstilling,new,4
+1277,Sport Boat,7.18,2.6,35,69203.125,Spain , Denia,new,5
+1280,Sport Boat,6.94,2.57,192,76380.5,Switzerland , Walensee ,new,6
+1281,Sport Boat,6.95,2.55,166,76380.5,Switzerland , Romanshorn ,new,4
+1283,Pilothouse,7.48,2.53,32,68888.15,Portugal ," Parchal, Portugal",new,6
+1301,Deck Boat,7.8,2.45,76,69875.0,Italy , Venezia,new,5
+1303,Deck Boat,8.1,2.5,23,69875.0,France ," ARCACHON, ARCACHON",new,5
+1313,Center console boat,8.1,2.0,94,70996.22499999999,Spain ," Palma, Espagne",new,4
+1315,Pilothouse,7.12,2.79,62,70950.0,France ," Antibes, Antibes",new,6
+1316,Center console boat,7.19,2.52,53,70950.0,France ," VANNES, France",new,4
+1318,Pilothouse,8.23,2.79,179,70939.25,Germany , Gersthofen,new,4
+1319,Sport Boat,7.48,2.55,244,70939.25,Germany , Bayern ,new,4
+1320,Sport Boat,7.65,2.5,106,70842.5,Germany , Hock Boote ,new,6
+1321,Center console boat,8.17,2.53,23,70842.5,France ," LE CROUESTY, LE CROUESTY",new,4
+1324,House Boat,9.28,3.06,84,74993.75,United Kingdom ," Chatham, Chatham",new,6
+1325,Deck Boat,6.99,2.73,28,70735.0,France ," benodet, France",new,6
+1326,Sport Boat,6.71,2.54,97,74937.5,United Kingdom ," Walton-on-Thames, Walton-on-Thames",new,6
+1328,Cabin Boat,6.6,2.1,85,72902.2,Germany , Bayern ,new,5
+1337,Pilothouse,8.7,2.55,162,72347.5,Germany , auf Anfrage,new,4
+1338,Bowrider,6.4,2.55,205,79897.3,Switzerland , Lake of Zurich ,new,3
+1343,Motor Yacht,7.15,2.5,72,74067.5,Germany , Hock Boote,new,9
+1345,Deck Boat,7.62,2.53,144,74067.5,Germany , Flensburger Frde ,new,5
+1346,Fishing Boat,6.2,2.54,48,74067.5,France ," Ajaccio, France",new,5
+1347,Deck Boat,6.5,2.5,83,74067.5,France ," PORNICHET, PORNICHET",new,5
+1373,Deck Boat,6.28,2.45,113,82997.579,Switzerland , Lake Constance ,new,5
+1379,Cabin Boat,7.75,2.5,163,74981.25,Switzerland , Lake Geneva ,new,4
+1382,Center console boat,7.0,2.5,113,74927.5,Italy , Toscana ,new,4
+1383,Pilothouse,6.71,2.54,25,74873.75,France ," BORMES LES MIMOSAS, France",new,4
+1397,Runabout,8.05,3.0,65,75248.925,Germany , Kieler Bucht mit Fehmarn ,new,4
+1398,Center console boat,7.19,2.52,76,76862.5,France ," ARZON, France",new,4
+1399,Pilothouse,8.23,2.79,81,76862.5,France ," Lorient, France",new,4
+1400,Motor Yacht,7.25,2.57,230,84792.246,Switzerland , Lake Constance ,new,4
+1404,Pilothouse,7.6,2.53,166,84513.09999999999,Switzerland , Vierwaldst¤ttersee ,new,4
+1407,Pilothouse,8.23,2.76,37,76325.0,France ," CAPBRETON, CAPBRETON",new,4
+1409,Cabin Boat,7.88,2.55,42,76314.25,Germany , Niedersachsen ,new,4
+1410,Pilothouse,6.92,2.59,73,76217.5,France ," PORNICHET, PORNICHET",new,5
+1411,Center console boat,7.09,2.5,37,76217.5,France ," PORT LEUCATE, France",new,4
+1415,Pilothouse,7.69,2.5,155,78475.0,Slovenia , LJUBLJANA,new,5
+1419,Center console boat,7.09,2.5,44,78367.5,France ," PORT LEUCATE, France",new,4
+1420,Pilothouse,8.23,2.79,58,78367.5,Germany , Erftstadt-Liblar,new,4
+1422,Cabin Boat,7.88,2.55,271,86546.25,Switzerland , Neuenburgersee ,new,4
+1435,Sport Boat,8.04,2.6,75,79813.375,Germany ," FA. SIEGEL, GUMMERSBACH, FA. SIEGEL, GUMMERSBACH",new,5
+1436,Pilothouse,8.23,2.79,36,79796.175,France ," PLUNERET, France",new,4
+1437,Center console boat,6.96,2.53,24,79619.875,Spain ," Hospitalet del Infante, Espagne",new,5
+1471,Deck Boat,7.13,2.5,42,80625.0,Spain ," D©nia, Alicante",new,5
+1476,Pilothouse,8.8,2.99,33,83023.325,Germany , Bnningstedt,new,4
+1478,Sport Boat,6.8,2.4,176,91711.55,Switzerland , Vierwaldst¤ttersee ,new,5
+1490,Cabin Boat,7.9,2.81,62,84817.5,Germany , Bayern ,new,4
+1492,Bowrider,6.68,2.4,205,93415.0,Switzerland , Vierwaldst¤ttersee ,new,5
+1493,Pilothouse,7.7,2.54,183,93415.0,Switzerland , Walensee ,new,6
+1495,Pilothouse,8.9,2.99,90,84430.5,Germany , Bnningstedt,new,4
+1497,Deck Boat,8.0,2.64,145,84387.5,Italy , Toscana ,new,4
+1498,Deck Boat,6.96,2.53,62,84387.5,France ," Vaux-sur-Seine, France",new,4
+1501,Sport Boat,6.4,2.5,128,92677.571,Switzerland , Lake of Zurich ,new,3
+1513,Bowrider,7.35,2.54,55,84925.0,France ," BORMES LES MIMOSAS, BORMES LES MIMOSAS",new,4
+1523,Sport Boat,8.1,2.7,81,85892.5,France ," SAINT CYPRIEN, France, SAINT CYPRIEN, SAINT CYPRIE",new,8
+1524,Sport Boat,8.1,2.7,89,85892.5,France ," SAINT CYPRIEN, SAINT CYPRIEN",new,8
+1525,Pilothouse,7.93,2.8,73,85892.5,Germany , Bnningstedt,new,4
+1527,Sport Boat,7.15,2.54,76,85785.0,Austria , Linz,new,4
+1529,Pilothouse,7.42,2.79,39,90868.75,United Kingdom ," Burton Waters, Burton Waters",new,4
+1533,Cabin Boat,7.75,2.55,109,85516.25,Germany , Bayern ,new,4
+1557,House Boat,9.0,2.5,207,88526.25,Netherlands , Nieuwbouw,new,4
+1567,Cabin Boat,6.84,2.45,304,91321.25,Germany , Lake Constance ,new,4
+1571,Center console boat,8.1,2.53,30,91267.5,France ," LES SABLES OLONNE, France",new,4
+1573,Pilothouse,7.93,2.8,95,91267.5,Germany , Bnningstedt,new,4
+1580,Sport Boat,8.1,2.55,336,99908.991,Switzerland , Romanshorn,new,4
+1583,Sport Boat,7.75,2.45,81,91375.0,Italy , Lake Garda ,new,5
+1600,Sport Boat,9.0,2.94,106,93514.25,France , France,new,4
+1601,Pilothouse,6.98,2.98,69,93514.25,Spain , Barcelona,new,5
+1603,Pilothouse,8.03,2.82,47,93417.5,France ," 29200 BREST, France",new,5
+1604,Sport Boat,6.8,2.5,143,93299.25,Germany , Lake Constance ,new,4
+1607,Water ski,6.65,2.41,123,92987.5,Germany , Rheinland-Pfalz ,new,4
+1608,Motor Yacht,8.3,2.8,138,92932.675,Germany , Nordrhein-Westfalen ,new,5
+1609,Pilothouse,7.49,2.55,327,102437.79,Switzerland , Lake Geneva ,new,4
+1612,Sport Boat,7.65,2.54,256,102207.0,Switzerland , Lake Constance ,new,4
+1613,Bowrider,2.36,7.55,220,102207.0,Switzerland , Vierwaldst¤ttersee ,new,5
+1614,Sport Boat,7.6,2.53,197,102207.0,Switzerland , Vierwaldst¤ttersee ,new,6
+1621,Pilothouse,6.99,2.72,191,105438.06,Switzerland , Luganersee ,new,5
+1623,Sport Boat,7.67,2.43,193,95307.34999999999,Switzerland , Vierwaldst¤ttersee ,new,5
+1628,Sport Boat,6.58,2.55,199,104742.393,Switzerland , Vierwaldst¤ttersee ,new,5
+1630,Pilothouse,8.36,2.95,124,94600.0,Cyprus ," Limassol, Chypre",new,14
+1648,Motor Yacht,8.76,2.99,296,96642.5,Italy , Moniga del Garda (BS),new,6
+1652,Bowrider,6.96,2.59,87,96642.5,Germany , Bayern ,new,4
+1656,Sport Boat,7.2,2.55,77,96373.75,Austria , Linz Schauraum TopYacht,new,5
+1657,Pilothouse,7.3,2.3,104,96373.75,Germany , Bayern ,new,4
+1658,Sport Boat,7.04,2.6,77,106493.09999999999,Switzerland , Bielersee ,new,7
+1660,Sport Boat,6.25,2.5,218,106444.74399999999,Switzerland , Lake of Zurich ,new,3
+1663,Pilothouse,6.65,2.6,163,108801.0,Switzerland , Vierwaldst¤ttersee ,new,5
+1667,House Boat,9.96,3.46,91,98040.0,Lithuania , onbekend,new,4
+1669,Cabin Boat,7.56,2.59,87,97717.5,Germany , Ubstadt-Weiherr ,new,4
+1673,Sport Boat,7.8,2.49,180,97053.15,Portugal ," Parchal, Portugal",new,5
+1684,Bowrider,7.01,2.59,312,112282.632,Switzerland , Lake Constance ,new,3
+1692,Motor Yacht,8.5,2.99,136,100942.5,Italy , Moniga del Garda (BS),new,6
+1709,Bowrider,8.0,2.54,273,105062.97499999999,Switzerland , Lake Constance ,new,5
+1710,Sport Boat,7.11,2.27,227,104973.75,Switzerland , Lake Constance ,new,5
+1711,Cabin Boat,7.6,2.56,258,104953.325,Germany , Lake Constance ,new,5
+1712,Bowrider,7.3,2.5,163,104946.875,Germany , Lake Constance ,new,4
+1716,Sport Boat,7.0,2.0,42,103674.99999999999,Denmark , Svendborg,new,5
+1719,Sport Boat,7.9,2.6,100,115285.09999999999,Switzerland , Bielersee ,new,7
+1731,Deck Boat,10.6,3.3,60,105887.5,Netherlands , Lemmer,new,5
+1736,Cabin Boat,8.3,2.55,150,105672.5,Germany , Baden-W¼rttemberg ,new,4
+1737,Deck Boat,9.0,2.0,46,105554.25,Spain ," Palma, Espagne",new,5
+1760,Cabin Boat,8.08,2.54,79,107392.5,Spain , Mallorca ,new,4
+1766,Pilothouse,8.25,2.95,148,107381.75,Germany , Gersthofen,new,4
+1769,Bowrider,7.3,2.5,51,107285.0,France ," MANDELIEU LA NAPOULE, France",new,4
+1773,Sport Boat,9.0,2.97,46,108575.0,France ," ANTIBES, ANTIBES",new,4
+1775,Cabin Boat,8.0,2.7,88,108360.0,Germany , Ubstadt-Weiherr ,new,4
+1776,Runabout,8.8,2.95,142,107698.875,Germany , auf Anfrage,new,4
+1806,Sport Boat,7.62,2.54,153,117166.4,Switzerland , Lake Constance ,new,4
+1807,Sport Boat,6.4,2.54,110,117067.5,Germany , Bayern ,new,4
+1808,Wakeboard/Wakesurf,6.6,2.59,158,129225.915,Switzerland , Vierwaldst¤ttersee ,new,6
+1809,Wakeboard/Wakesurf,7.1,2.49,95,116100.0,Germany , Rheinland-Pfalz ,new,4
+1816,House Boat,11.0,4.35,52,115455.0,Netherlands , onbekend,new,4
+1819,Cabin Boat,8.12,2.55,129,127154.3,Switzerland , Lake Constance ,new,4
+1829,Bowrider,7.4,2.5,99,118121.0,France ," MANDELIEU LA NAPOULE, France",new,4
+1835,Sport Boat,8.0,2.59,119,120346.25,Germany ," GUMMERSBACH, FA. SIEGEL GMBH, GUMMERSBACH, FA. SIE",new,5
+1838,Sport Boat,8.74,2.59,69,119970.0,Germany , Gummersbach,new,5
+1839,Cabin Boat,8.9,2.84,256,119701.25,Switzerland , Lake Geneva ,new,4
+1840,Sport Boat,8.9,2.84,171,119701.25,Switzerland , Lake Constance ,new,4
+1842,Motor Yacht,9.95,3.35,53,119325.0,France ," La Rochelle, France",new,5
+1845,Sport Boat,6.2,2.03,146,131218.402,Switzerland , Bielersee ,new,6
+1846,Sport Boat,8.0,2.59,145,118465.0,Germany ," SIEGEL AUTO  und  BOOT GUMMERSBA, SIEGEL AUTO  und",new,5
+1863,Sport Boat,7.9,2.5,122,123614.25,Germany , ab Herford,new,4
+1864,Motor Yacht,9.5,3.0,123,123591.67499999999,Poland , Polen,new,5
+1867,Deck Boat,8.6,2.98,40,125277.275,Spain , Alicante (Alacant),new,4
+1870,Sport Boat,7.21,2.59,258,137924.5,Switzerland , Lago Maggiore ,new,3
+1876,Sport Boat,6.73,2.57,198,137477.207,Switzerland , Vierwaldst¤ttersee ,new,4
+1889,House Boat,11.0,4.2,108,127925.0,Germany , Deutschland,new,4
+1890,Sport Boat,7.7,2.4,84,127925.0,Netherlands , Muiderzand,new,6
+1894,Wakeboard/Wakesurf,6.7,2.54,72,127925.0,Germany , Rhein ,new,4
+1895,Cabin Boat,7.48,2.56,161,127925.0,Germany , Traben-Trabach,new,5
+1910,House Boat,10.7,3.4,86,128989.25,Germany , Polen,new,6
+1913,Cabin Boat,8.06,3.0,159,143870.09,Switzerland , Neuenburgersee ,new,4
+1914,Motor Yacht,8.8,2.8,193,142760.1,Switzerland , Bielersee ,new,7
+1916,Pilothouse,7.0,2.0,104,128413.99999999999,Denmark , Svendborg,new,4
+1918,Sport Boat,9.31,2.99,222,128256.69999999998,Denmark , Ny,new,4
+1919,Pilothouse,8.15,2.55,278,143188.71,Switzerland , Lake Geneva ,new,4
+1938,Cabin Boat,7.9,2.5,89,134267.5,Germany , Herford,new,4
+1942,House Boat,9.0,4.0,39,134160.0,Poland , Nieuwbouw,new,4
+1943,Motor Yacht,11.0,3.5,325,134065.4,Poland , Werft,new,5
+1949,Deck Boat,9.12,2.98,33,135342.5,France ," LA ROCHELLE, LA ROCHELLE",new,4
+1952,Motor Yacht,8.65,2.59,242,148738.66,Germany , Lake Constance ,new,4
+1959,Pilothouse,9.1,2.98,28,138675.0,France ," MARTIGUES, France",new,5
+1975,Deck Boat,7.96,2.98,40,139750.0,Italy , Mar Ligure,new,4
+1983,Center console boat,9.12,2.98,95,139750.0,France ," PORNICHET, France",new,4
+1988,Sport Boat,9.4,2.95,201,139750.0,Poland , In Produktion,new,4
+1994,Wakeboard/Wakesurf,7.35,2.54,115,144050.0,Germany , Rheinland-Pfalz ,new,4
+1996,Cabin Boat,8.1,2.56,145,143942.5,Germany , Boote Pfister GmbH Schwebheim / Schweinfurt,new,4
+2020,Pilothouse,9.0,2.0,47,145125.0,France ," Avignon, France",new,5
+2033,Cabin Boat,8.15,2.55,249,149220.75,Germany , Lake Constance ,new,4
+2038,Sport Boat,8.0,2.6,205,166262.215,Switzerland , Lake of Zurich ,new,3
+2050,Cabin Boat,7.9,2.5,132,154605.425,Germany , Lake Constance ,new,3
+2053,Cabin Boat,8.1,2.56,75,153617.5,Germany , Boote Pfister GmbH Schwebheim / Schweinfurt,new,3
+2055,Sport Boat,7.7,2.5,86,153402.5,Italy , Moniga del Garda (BS),new,7
+2061,Sport Boat,9.19,3.1,176,153187.5,Switzerland , Lake Constance ,new,4
+2065,Cabin Boat,8.1,2.56,101,152542.5,Germany , Boote Pfister GmbH Schwebheim / Schweinfurt,new,3
+2066,Deck Boat,9.12,9.98,36,156842.5,France ," PORNICHET, France",new,4
+2068,Motor Yacht,9.95,3.45,123,156305.0,Italy , Lake Garda ,new,5
+2097,House Boat,8.5,3.8,38,161142.5,Netherlands , Nieuwbouw,new,4
+2101,Sport Boat,8.07,2.59,160,160820.0,Austria , Linz,new,4
+2111,Bowrider,7.89,2.59,76,162658.25,Germany , Berlin ,new,4
+2112,Sport Boat,7.89,2.59,99,162658.25,Germany , Berlin ,new,4
+2113,Bowrider,7.89,2.59,127,162658.25,Germany , Berlin ,new,4
+2115,Center console boat,7.99,2.95,150,161857.375,Switzerland , Lake Geneva ,new,4
+2116,Sport Boat,7.8,2.49,56,178587.5,Switzerland , Lake of Zurich ,new,4
+2146,Sport Boat,7.89,2.5,132,170925.0,Germany , Niedersachsen ,new,5
+2201,Hardtop,10.28,3.59,121,181567.5,Italy , Moniga del Garda (BS),new,6
+2202,Sport Boat,9.95,3.35,27,181137.5,France ," HENDAYE, HENDAYE",new,4
+2203,Sport Boat,8.0,2.0,149,178749.99999999997,Denmark , Svendborg,new,4
+2250,Hardtop,10.94,3.31,165,189703.8,Denmark , Ab v¦rft,new,4
+2260,Motor Yacht,9.35,2.95,67,193500.0,Germany , L¼becker Bucht ,new,4
+2271,Trawler,12.74,4.13,74,198412.49999999997,Denmark , Frankrig,new,35
+2272,Motor Yacht,11.9,4.2,43,198412.49999999997,Denmark , Frankrig,new,18
+2274,Motor Yacht,10.52,3.2,59,199842.5,Germany , Bnningstedt,new,4
+2275,Sport Boat,9.95,3.0,110,199371.65,Spain ," Palma, Espagne",new,4
+2285,Motor Yacht,10.0,3.0,68,201915.99999999997,Denmark , Svendborg,new,4
+2289,Hardtop,9.42,3.18,39,215625.0,United Kingdom ," Ipswich, Ipswich",new,5
+2308,Wakeboard/Wakesurf,8.31,2.59,100,208872.5,Germany , Rheinland-Pfalz ,new,4
+2313,Hardtop,9.95,3.35,67,208464.0,France ," ARZON, France",new,4
+2315,Hardtop,11.65,3.99,196,212312.5,Italy , Moniga del Garda (BS),new,6
+2326,Motor Yacht,10.8,3.45,79,210436.625,Poland , ab Werk,new,4
+2328,Runabout,8.13,2.59,167,230790.0,Switzerland , Lago Maggiore ,new,6
+2347,Motor Yacht,11.58,3.2,79,214998.925,Turkey , onbekend,new,7
+2353,Motor Yacht,9.99,3.49,116,214892.5,Netherlands , Lelystad,new,6
+2354,Sport Boat,9.63,3.32,68,214892.5,France ," Ajaccio, France",new,5
+2357,Hardtop,9.02,3.15,153,214892.5,Spain , Baleares ,new,4
+2362,Hardtop,10.5,3.35,114,224675.0,France ," BORMES LES MIMOSAS, France",new,4
+2374,House Boat,14.99,4.8,236,220375.0,Germany , Hamburg ,new,6
+2376,Pilothouse,10.45,3.37,76,227900.0,Germany , Bnningstedt,new,4
+2394,Pilothouse,10.95,3.31,216,258265.0,Switzerland , Neuenburgersee ,new,7
+2395,Motor Yacht,11.66,3.59,177,231216.69999999998,Denmark , Ab v¦rft,new,4
+2396,Motor Yacht,9.79,3.62,60,233597.5,Italy , Campania ,new,5
+2397,Motor Yacht,8.25,3.05,84,232834.25,Germany , L¼becker Bucht ,new,5
+2398,Hardtop,10.03,3.07,44,245993.75,United Kingdom ," Swanwick, Swanwick",new,4
+2399,Motor Yacht,9.8,3.0,220,255957.1,Switzerland , Lake Constance ,new,4
+2400,Motor Yacht,9.95,3.35,55,231261.525,Spain ," Palma, Espagne",new,4
+2415,Hardtop,9.95,3.32,72,236500.0,France ," ARCACHON, France",new,4
+2426,Sport Boat,11.2,3.3,272,241875.0,Germany , Ausstellungshalle Traben Trarbach ,new,5
+2453,House Boat,12.0,4.5,61,247142.5,Netherlands , Nieuwbouw,new,4
+2462,Motor Yacht,9.8,3.0,200,282157.26,Switzerland , Romanshorn ,new,4
+2463,Sport Boat,9.98,3.35,80,254775.0,France ," LA GRANDE MOTTE, LA GRANDE MOTTE",new,4
+2464,Sport Boat,8.24,2.6,157,280759.332,Switzerland , Stansstad,new,5
+2465,Trawler,18.5,3.4,44,253968.75,Poland , Stettin,new,5
+2467,Hardtop,10.49,3.07,74,268687.5,United Kingdom ," Swanwick, Swanwick",new,6
+2468,Hardtop,10.54,3.07,62,268687.5,United Kingdom ," Swanwick, Swanwick",new,6
+2469,Hardtop,9.15,3.1,230,280025.2,Switzerland , Vierwaldst¤ttersee ,new,5
+2474,Sport Boat,11.5,3.35,245,258000.0,Poland , In Produktion,new,4
+2481,Hardtop,9.95,3.35,202,257888.19999999998,Switzerland , Stansstad,new,4
+2483,Motor Yacht,10.56,3.32,95,257129.25,Germany , Bnningstedt,new,4
+2495,Sport Boat,8.75,2.74,84,263375.0,Austria , Linz,new,4
+2511,Motor Yacht,11.5,3.35,210,267675.0,Germany , Ausstellungshalle Traben-Trarbach,new,5
+2517,Hardtop,10.36,3.05,18,287437.5,United Kingdom ," Lincoln, Lincoln",new,6
+2518,Motor Yacht,12.75,4.26,66,270242.1,Poland , ab Werk,new,4
+2521,Motor Yacht,10.25,3.5,215,269825.0,Switzerland , noch in Produktion,new,4
+2531,Hardtop,9.95,3.35,117,268750.0,Italy , Lombardia - Trentino Alto Adige ,new,6
+2542,Hardtop,10.31,3.5,150,278425.0,Germany , Baden-W¼rttemberg ,new,4
+2545,Hardtop,9.99,3.3,107,275132.0,Denmark , Ab v¦rft,new,4
+2546,Flybridge,9.99,3.53,222,277350.0,Switzerland , Vierwaldst¤ttersee ,new,5
+2560,House Boat,18.3,3.36,76,284767.5,Poland , Polen,new,5
+2588,Cabin Boat,9.85,3.25,257,295625.0,Germany , Mosel ,new,4
+2590,Cabin Boat,9.85,3.25,212,295625.0,Sweden , In Produktion,new,4
+2595,Hardtop,11.46,3.61,48,318687.5,United Kingdom ," Lincoln, Lincoln",new,4
+2630,Trawler,11.29,3.96,33,311750.0,France ," Cogolin, France",new,4
+2678,Cabin Boat,9.97,3.0,202,332551.25,Germany , Lake Constance ,new,5
+2682,Sport Boat,11.13,3.23,100,331100.0,Cyprus , Limassol,new,4
+2683,Sport Boat,10.34,3.2,520,364894.376,Switzerland , Lake of Zurich ,new,3
+2696,Flybridge,11.4,3.84,28,362437.5,United Kingdom ," Swanwick, Swanwick",new,5
+2699,Motor Yacht,12.33,3.8,29,341687.675,Germany , Bnningstedt,new,4
+2703,Bowrider,9.99,2.99,177,339339.875,Switzerland , Lake Constance ,new,4
+2704,Trawler,11.29,4.03,34,350450.0,France ," SAINT GILLES CROIX DE VIE, LES SABLES OLONNE",new,4
+2705,Motor Yacht,12.0,3.75,384,349375.0,Switzerland , Neuenburgersee ,new,5
+2720,Hardtop,11.99,3.75,71,357812.88399999996,Denmark , ab v¦rft,new,4
+2729,Flybridge,14.5,4.6,209,360125.0,Germany , Deutschland,new,3
+2733,Flybridge,11.43,3.84,36,356143.2,Germany , Bayern ,new,4
+2751,Sport Boat,11.4,3.5,162,366037.5,Switzerland , Lake Constance ,new,4
+2752,Trawler,11.29,3.96,28,376250.0,France ," Cogolin, France",new,4
+2770,Sport Boat,11.95,3.85,47,387000.0,France ," PORTICCIO, France",new,4
+2780,Center console boat,10.76,3.25,54,385925.0,France ," BORMES LES MIMOSA, France",new,4
+2781,Trawler,11.7,4.11,36,385925.0,Germany , Rostock,new,4
+2786,Sport Boat,10.31,3.25,146,401351.25,Austria , Linz,new,4
+2787,Hardtop,11.47,3.59,29,400867.5,Germany , Bnningstedt,new,4
+2790,Hardtop,12.0,3.0,69,399707.575,Spain , Espagne,new,5
+2799,Hardtop,12.67,3.87,71,413875.0,Spain ," Barcelona, Espagne",new,4
+2801,Motor Yacht,11.99,3.85,68,409296.575,Germany , Nordsee ,new,4
+2802,Hardtop,13.2,3.9,122,408500.0,Italy , Toscana ,new,4
+2814,Cabin Boat,9.86,3.25,316,420249.75,Germany , Baden-W¼rttemberg ,new,3
+2826,Motor Yacht,11.95,3.85,198,463173.55,Switzerland , Lake Constance ,new,5
+2828,Sport Boat,10.17,2.98,425,418712.5,Switzerland , Lake Constance ,new,4
+2843,House Boat,11.2,3.45,67,428925.0,Germany , onbekend,new,4
+2854,Cabin Boat,10.87,3.4,267,440750.0,Sweden , In Produktion,new,4
+2863,Hardtop,11.33,3.4,279,462250.0,Germany , Mosel ,new,4
+2865,Motor Yacht,11.5,3.75,209,461294.32499999995,Switzerland , Vierwaldst¤ttersee ,new,3
+2871,Motor Yacht,11.73,3.35,325,461175.0,Germany , Ausstellungshalle Traben-Trarbach ,new,5
+2879,Trawler,13.43,4.25,80,480267.0,France ," saint cyprien, France",new,4
+2880,Trawler,13.43,4.25,68,480267.0,France ," saint cyprien, France",new,4
+2892,Hardtop,11.49,3.49,271,544005.0,Switzerland , Goldach,new,5
+2893,Pilothouse,14.3,4.1,70,491487.85,Germany , Bayern ,new,4
+2894,Motor Yacht,14.3,4.1,44,491487.85,Germany , Bnningstedt,new,4
+2898,Flybridge,13.6,4.21,145,483611.69999999995,Denmark , ab v¦rft,new,4
+2899,Flybridge,12.65,3.99,180,482181.69999999995,Denmark , Ab v¦rft,new,4
+2917,Sport Boat,11.7,3.53,228,508801.8,Italy ," Marine Test Centre ""Italo Monzino""",new,4
+2920,Flybridge,13.2,4.0,66,507937.5,Spain ," Ma³-Mah³n, Espagne",new,5
+2948,Trawler,13.43,4.2,34,536425.0,France ," LES SABLES OLONNE, France",new,4
+2952,Hardtop,13.55,4.2,55,575599.075,Germany , Nordsee ,new,4
+2962,Motor Yacht,12.5,3.85,81,568675.0,Germany , L¼becker Bucht ,new,4
+2976,Sport Boat,13.5,4.2,133,591250.0,Spain ," Ma³-Mah³n, Espagne",new,5
+2981,House Boat,18.0,8.0,464,591250.0,Russian Federation , Moskau,new,3
+2983,Hardtop,13.82,4.06,417,621995.0,Switzerland , Lago Maggiore ,new,4
+2985,Sport Boat,11.85,3.53,214,619612.7999999999,Austria , Linz,new,4
+2989,Hardtop,12.5,3.85,134,616981.2,France ," Frejus, France",new,5
+2990,Flybridge,12.5,4.0,429,615115.0,Germany , Lake Constance ,new,4
+3015,Cabin Boat,13.16,3.75,236,671875.0,Sweden , In Produktion,new,4
+3018,Flybridge,15.19,4.5,74,702940.0,United Kingdom ," Lincoln, Lincoln",new,6
+3019,Trawler,19.75,4.9,48,661125.0,Netherlands , Omgeving Harlingen,new,6
+3021,Flybridge,14.43,4.49,149,653956.875,Denmark , ab v¦rft,new,4
+3056,Flybridge,13.9,4.48,161,740675.0,Croatia (Hrvatska) , Marina Veruda ,new,4
+3063,Flybridge,13.0,3.95,113,799800.0,Germany , Ostsee ,new,4
+3064,Flybridge,14.99,4.8,127,787081.009,Denmark , ab v¦rft,new,4
+3070,Cabin Boat,13.9,4.4,200,783675.0,Switzerland , Lake Geneva ,new,4
+3075,Motor Yacht,14.99,4.8,58,766569.3749999999,Denmark , ab v¦rft,new,4
+3078,Flybridge,14.29,4.3,73,848175.0,Germany , Bnningstedt,new,4
+3080,Sport Boat,13.82,4.06,104,839403.0,Austria , Linz - San Giorgio di Nogaro (I),new,4
+3086,Sport Boat,13.9,3.8,554,834392.4249999999,Switzerland , Gottlieben ,new,4
+3089,Motor Yacht,15.85,4.51,149,881250.0,United Kingdom , Poole,new,4
+3090,Sport Boat,11.25,3.2,118,829900.0,Austria , Linz,new,4
+3106,Flybridge,16.11,4.5,72,875265.0,France ," CANET EN ROUSSILLON, France",new,4
+3108,Hardtop,15.0,4.0,59,943043.75,Spain , L'HOSPITALET DE LINFANT,new,8
+3159,Flybridge,16.76,4.61,32,1187500.0,United Kingdom , Poole,new,4
+3164,Motor Yacht,15.82,4.67,66,1104857.05,Netherlands , onbekend,new,6
+3165,Motor Yacht,17.6,5.0,56,1104025.0,United Arab Emirates , Dubai & VAE,new,4
+3178,Motor Yacht,15.1,4.6,141,1230337.5,Germany , Ostsee ,new,4
+3180,Flybridge,18.9,4.88,63,1298417.5,United Kingdom ," Lincoln, Lincoln",new,5
+3181,Sport Boat,16.25,4.96,80,1222914.625,Spain ," Barcelona, Espagne",new,6
+3184,Flybridge,16.71,4.75,161,1201900.7,Denmark , ab v¦rft,new,4
+3198,Motor Yacht,19.9,9.0,398,1343750.0,Russian Federation , Moskau,new,3
+3200,Motor Yacht,18.01,4.72,87,1418750.0,United Kingdom , Poole,new,4
+3206,Sport Boat,18.52,4.85,130,1495755.0,Austria ," Linz Marine Test Centre ""Italo Monzino""",new,4
+3226,Motor Yacht,17.2,4.85,63,1685210.8499999999,Italy , Veneto ,new,4
+3228,Hardtop,18.24,4.7,351,1773607.5,Switzerland , Poole / GB ,new,3
+3235,Motor Yacht,17.2,4.85,174,1977750.5999999999,Italy , Veneto ,new,4
+3246,Motor Yacht,19.98,5.54,68,1928550.0,Germany , Dubai & VAE,new,4
+3257,Motor Yacht,22.86,6.05,53,2276850.0,United Arab Emirates , Dubai & VAE,new,4
+3278,Motor Yacht,18.0,5.0,87,2686425.0,Finland , Ostsee ,new,4
+3284,Motor Yacht,22.86,6.05,123,3751750.0,United Arab Emirates , Dubai & VAE,new,4
+3299,Mega Yacht,30.55,7.4,94,5822200.0,United Arab Emirates , Dubai & VAE,new,4
+3303,Mega Yacht,30.55,7.4,63,5751250.0,Italy , Mittelmeer Italien,new,5
+3306,Flybridge,26.3,6.48,59,5975000.0,United Kingdom , Poole,new,4
+3311,Mega Yacht,43.3,8.2,167,17226875.0,United Arab Emirates , Dubai & VAE,new,4
+3314,Mega Yacht,37.0,8.1,124,13061250.0,United Arab Emirates , Dubai & VAE,new,4
+3318,Mega Yacht,38.4,7.5,76,12319500.0,United Arab Emirates , Dubai & VAE,new,4
+3325,Mega Yacht,54.4,9.6,1009,33325000.0,United Arab Emirates , Dubai & VAE,new,4
+3326,Mega Yacht,47.6,9.6,304,25853750.0,United Arab Emirates , Dubai & VAE,new,4
+3331,Mega Yacht,36.3,8.0,130,18006250.0,Germany , Nordsee Holland,new,4
+3333,Mega Yacht,37.3,7.5,82,9922250.0,United Arab Emirates , Dubai & VAE,new,4
+3334,Mega Yacht,34.83,7.1,82,9757345.0,Italy , Dubai & VAE,new,4
+3337,Mega Yacht,39.3,7.54,96,9567500.0,United Arab Emirates , Dubai & VAE,new,7
+3342,Flybridge,28.06,6.55,535,9000106.25,United Kingdom , Poole / GB ,new,4
+3347,Motor Yacht,28.96,6.58,90,7950000.0,United Kingdom , Southampton,new,4
+3352,Mega Yacht,34.83,7.1,126,7310000.0,Italy , Mittelmeer S¼dfrankreich,new,7
+3357,Motor Yacht,23.9,6.76,134,6772500.0,Spain , Mallorca ,new,7
+3358,Flybridge,26.3,6.47,209,7043941.25,United Kingdom , United Kingdom ,new,5
+3373,Motor Yacht,26.34,6.35,41,4945000.0,Italy , Marina di Carrara,new,6
+3393,Flybridge,7.62,5.49,97,3950141.25,Malta , San ?iljan,new,4
+3398,Flybridge,23.62,5.97,26,3481250.0,United Kingdom , Poole,new,4
+3399,Flybridge,23.62,5.97,38,3481250.0,United Kingdom , Poole,new,4
+3400,Sport Boat,21.5,5.6,84,3278750.0,Italy , Toscana ,new,4
+3401,Motor Yacht,23.42,6.12,96,3249725.0,United Arab Emirates , Dubai & VAE,new,4
+3404,Flybridge,22.82,5.38,171,3383786.25,United Kingdom , United Kingdom ,new,5
+3411,Catamaran,27.0,25.16,137,3117500.0,Italy , Faenza,new,10
+3419,Hardtop,23.03,5.64,80,2993875.0,Italy , Toscana ,new,4
+3420,Motor Yacht,22.82,5.38,125,3136525.0,United Kingdom , United Kingdom ,new,5
+3429,Motor Yacht,22.59,5.43,84,2831250.0,Spain , El Toro,new,5
+3430,Motor Yacht,22.59,5.43,50,2831250.0,United Kingdom , Poole,new,4
+3434,Mega Yacht,20.8,5.45,88,2580000.0,Slovenia , Begunje,new,6
+3437,Motor Yacht,20.8,5.45,54,2513671.875,Denmark , ab v¦rft,new,4
+3439,Motor Yacht,22.59,5.43,43,2631250.0,United Kingdom , Poole,new,5
+3440,Motor Yacht,22.59,5.43,33,2631250.0,United Kingdom , Southampton,new,5
+3458,Flybridge,23.2,6.4,227,2150000.0,Russian Federation , Russland,new,4
+3461,Motor Yacht,19.98,5.54,78,2148925.0,Germany , Mittelmeer S¼dfrankreich,new,4
+3498,Motor Yacht,18.95,4.99,87,1850062.4999999998,Denmark , ab v¦rft,new,4
+3499,Flybridge,15.82,4.67,62,1833941.4,Italy ," Linz Marine Test Centre ""Italo Monzino""",new,4
+3501,Hardtop,22.0,5.07,59,1827500.0,Italy , Toscana ,new,4
+3515,Motor Yacht,19.98,5.54,47,1728600.0,Germany , Dubai & VAE,new,4
+3547,Flybridge,17.21,4.87,124,1627267.5,Switzerland , United Kingdom ,new,4
+3549,Flybridge,18.52,4.85,100,1508219.625,Netherlands , onbekend,new,7
+3552,Motor Yacht,18.52,4.85,83,1474400.125,Netherlands , onbekend,new,7
+3559,Flybridge,16.9,4.9,181,1451250.0,Croatia (Hrvatska) , Ubstadt-Weiherr ,new,4
+3565,Motor Yacht,18.7,5.0,69,1435125.0,United Arab Emirates , Dubai & VAE,new,4
+3574,Sport Boat,18.4,4.6,431,1381375.0,Switzerland , Lake Constance ,new,4
+3578,Motor Yacht,18.7,5.0,50,1370625.0,United Arab Emirates , Dubai & VAE,new,5
+3581,Flybridge,17.2,4.85,71,1325438.45,Netherlands , onbekend,new,6
+3585,Trawler,17.0,4.95,96,1294246.25,Netherlands , In verkoophaven,new,4
+3592,Catamaran,16.0,7.0,311,1290000.0,Russian Federation , Moaskau,new,3
+3600,Motor Yacht,18.52,4.85,110,1273434.25,Netherlands , onbekend,new,7
+3603,Motor Yacht,19.98,5.54,90,1263125.0,Germany , Dubai & VAE,new,6
+3621,Motor Yacht,17.2,4.85,98,1177662.5,Netherlands , onbekend,new,7
+3624,Flybridge,16.2,4.4,157,1177039.0,France ," MANDELIEU LA NAPOULE, France",new,4
+3633,Motor Yacht,15.82,4.67,143,1166160.0,France , C´te d'Azur,new,4
+3639,Flybridge,16.5,4.7,78,1145950.0,Italy , Toscana ,new,4
+3640,Flybridge,15.82,4.67,149,1138742.125,Netherlands , onbekend,new,6
+3643,Sport Boat,15.82,4.67,193,1132620.0,Austria ," Linz, San Girorgio di Nogaro",new,4
+3676,Hardtop,16.3,4.73,79,1048125.0,Italy , Toscana ,new,4
+3682,Motor Yacht,19.53,6.12,45,1013512.4999999999,Denmark , Frankrig,new,17
+3738,Flybridge,15.19,4.5,73,999937.5,United Kingdom ," Delivery UK or Med, Delivery UK or Med",new,7
+3740,Sport Boat,13.91,3.9,372,927407.875,Switzerland , Lake Constance ,new,4
+3775,Motor Yacht,14.8,3.8,90,860000.0,Italy , La Spezia,new,5
+3806,Motor Yacht,14.98,5.0,54,817430.0,United Arab Emirates , Dubai & VAE,new,4
+3877,Flybridge,15.6,4.61,350,721490.5499999999,Switzerland , Lake Constance ,new,4
+3884,Trawler,13.8,4.37,109,711510.25,Netherlands , onbekend,new,4
+3887,Sport Boat,11.72,3.33,370,781983.559,Switzerland , Vierwaldst¤ttersee ,new,4
+3892,Motor Yacht,22.0,5.6,41,697125.0,Denmark , Frankrig,new,24
+3909,Motor Yacht,12.0,3.5,88,691380.875,Finland , Ostsee ,new,4
+3947,Flybridge,13.06,4.1,63,643925.0,Germany , Bnningstedt,new,4
+3972,Flybridge,13.06,4.1,62,632027.975,Germany , Bnningstedt,new,4
+3973,Flybridge,17.8,5.14,192,629950.0,Germany , Deutschland,new,3
+3981,Flybridge,14.5,4.39,51,623500.0,Italy , Toscana ,new,4
+3987,Flybridge,13.06,4.1,115,623392.5,Germany , Bayern ,new,4
+3994,Flybridge,13.06,4.1,83,611675.0,Germany , Berlin ,new,5
+3997,Hardtop,15.7,4.28,136,607375.0,Italy , Toscana ,new,4
+4009,Flybridge,13.55,4.2,132,601184.075,Germany , Nordsee ,new,4
+4037,Hardtop,13.2,4.0,113,580760.15,Spain ," Mah³n, Espagne",new,4
+4063,Hardtop,14.78,4.2,33,555775.0,France ," LA GRANDE MOTTE, LA GRANDE MOTTE",new,5
+4081,Flybridge,12.5,3.94,159,536425.0,Spain , Mallorca ,new,4
+4113,Motor Yacht,19.81,5.1,60,520162.49999999994,Denmark , Frankrig,new,21
+4135,Deck Boat,15.37,4.57,74,546882.5,United Kingdom ," Southampton, Southampton",new,5
+4159,Trawler,13.88,4.25,34,497037.0,France ," Lorient, France",new,4
+4167,Sport Boat,1.7,3.64,191,494500.0,Switzerland , Lake Constance ,new,4
+4195,Motor Yacht,13.9,3.98,45,482675.0,Germany , Ostsee ,new,6
+4196,Hardtop,13.5,3.99,160,482675.0,Italy , Toscana ,new,4
+4238,Motor Yacht,13.6,4.21,68,453581.69999999995,Denmark , Ab v¦rft,new,4
+4239,Hardtop,13.46,3.9,367,457208.25,Germany , Lake Constance ,new,5
+4242,Sport Boat,13.7,3.64,192,456875.0,Switzerland , Lake Constance ,new,4
+4245,Motor Yacht,12.65,3.99,145,449720.69999999995,Denmark , Ab v¦rft,new,4
+4247,Cabin Boat,12.64,3.99,323,500583.51,Switzerland , Lake Geneva ,new,4
+4263,Hardtop,11.99,3.45,459,448723.27499999997,Switzerland , Vierwaldst¤ttersee ,new,4
+4267,Flybridge,13.2,3.9,115,435375.0,Italy , Toscana ,new,4
+4269,Motor Yacht,11.96,3.75,48,428856.99999999994,Denmark , Showroom Toldbodgade 94 Randers,new,4
+4271,Hardtop,16.36,4.47,69,427927.49999999994,Denmark , Frankrig,new,16
+4304,Sport Boat,8.85,2.78,402,472570.0,Switzerland , Lake of Zurich ,new,5
+4307,Motor Yacht,13.42,3.99,64,427312.5,Netherlands , In verkoophaven,new,7
+4333,Motor Yacht,11.4,3.5,139,418175.0,Germany , Lake Constance ,new,4
+4338,Hardtop,11.47,3.59,46,418175.0,France ," CANET EN ROUSSILLON, CANET EN ROUSSILLON",new,4
+4348,Flybridge,13.18,4.11,69,412912.49999999994,Denmark , Frankrig,new,13
+4350,Catamaran,11.0,5.0,277,417100.0,Switzerland , Lago Maggiore ,new,7
+4351,Trawler,11.0,3.96,108,416025.0,Belgium ," Nieuport, Belgique",new,5
+4353,Hardtop,11.55,3.5,77,415132.75,Austria , Ubstadt-Weiherr ,new,4
+4354,Hardtop,11.49,3.49,368,414283.5,Switzerland , Stansstad,new,4
+4370,Motor Yacht,11.93,3.57,65,407425.0,Germany , Bnningstedt,new,4
+4372,Motor Yacht,11.7,3.53,73,407004.675,Netherlands , onbekend,new,5
+4381,Flybridge,11.43,3.84,110,403125.0,Germany , Berlin ,new,5
+4395,Pilothouse,11.47,3.59,121,397642.5,Germany , Bayern ,new,4
+4397,Hardtop,11.99,4.25,88,393205.38399999996,Denmark , ab v¦rft,new,4
+4401,Motor Yacht,11.0,3.9,111,396675.0,Spain , Baleares ,new,4
+4407,Hardtop,11.48,3.63,39,419425.0,United Kingdom ," Swanwick, Swanwick",new,4
+4418,Hardtop,11.04,3.5,161,391912.75,Switzerland , Vierwaldst¤ttersee ,new,3
+4429,Sport Boat,9.48,2.94,327,424214.0,Switzerland , Lago Maggiore ,new,5
+4438,Hardtop,12.0,4.0,171,381625.0,Switzerland , Lake Constance ,new,4
+4440,Sport Boat,9.75,2.97,226,420736.76399999997,Switzerland , Vierwaldst¤ttersee ,new,4
+4441,Sport Boat,9.4,3.2,107,377566.875,Finland , Ostsee ,new,4
+4459,Classic,18.3,4.9,80,375712.5,Netherlands , In verkoophaven,new,17
+4469,Sport Boat,7.9,2.5,248,375175.0,Germany , Konstanz,new,5
+4481,Center console boat,10.89,3.02,46,375175.0,Italy , Liguria ,new,5
+4495,Motor Yacht,10.4,3.5,45,365500.0,Germany , Russland,new,5
+4498,Hardtop,11.47,3.59,79,365457.0,France ," LA GRANDE MOTTE, France",new,4
+4515,Hardtop,13.29,3.99,79,363439.225,Germany , Allert marin - Ausstellung,new,5
+4554,Motor Yacht,11.96,3.75,76,343085.6,Denmark , Showroom Toldbodgade 94 Randers,new,4
+4556,Hardtop,11.46,3.58,23,364766.25,United Kingdom ," Burton Waters, Burton Waters",new,4
+4573,Motor Yacht,10.9,3.5,571,379155.0,Switzerland , Lake Constance ,new,4
+4592,Trawler,10.0,3.8,138,338431.5,Spain ," Ma³-Mah³n, Espagne",new,5
+4595,Motor Yacht,10.31,3.5,220,334649.64999999997,Switzerland , Vierwaldst¤ttersee ,new,3
+4614,Motor Yacht,11.47,3.59,40,324417.8,Germany , Bnningstedt,new,4
+4616,Motor Yacht,11.7,3.53,94,324394.14999999997,Netherlands , onbekend,new,5
+4628,House Boat,15.0,5.6,109,322392.5,Netherlands , Nieuwbouw,new,4
+4629,Hardtop,11.62,3.62,62,322392.5,Germany , Berlin ,new,5
+4652,House Boat,12.93,3.76,82,320350.0,Netherlands , onbekend,new,17
+4655,Flybridge,12.75,4.26,94,319658.77499999997,Poland , ab Werk,new,4
+4656,Hardtop,9.99,3.3,418,319398.625,Switzerland , Stansstad,new,4
+4684,Hardtop,10.31,3.5,128,313362.5,Germany , Baden-W¼rttemberg ,new,4
+4685,Motor Yacht,11.29,3.96,95,313362.5,Germany , Baden-W¼rttemberg ,new,4
+4687,Hardtop,10.9,3.35,248,312986.25,Germany , Lake Constance ,new,4
+4690,Hardtop,9.46,3.22,230,344976.1,Switzerland , Goldach,new,4
+4706,Motor Yacht,13.29,3.99,203,307864.69999999995,Denmark , Ab v¦rft,new,4
+4707,Hardtop,10.56,3.32,249,343479.262,Switzerland , Vierwaldst¤ttersee ,new,4
+4717,Sport Boat,9.0,2.6,111,310675.0,Germany , Kressbronn - Gohren,new,5
+4720,Motor Yacht,10.5,3.32,53,310137.5,Germany , Bnningstedt,new,4
+4724,Wakeboard/Wakesurf,7.65,2.59,145,308310.0,Germany , Rheinland-Pfalz ,new,4
+4725,Motor Yacht,13.69,4.11,45,304590.0,Denmark , Frankrig,new,10
+4726,Pilothouse,10.7,3.1,370,306858.75,Switzerland , Lake Constance ,new,4
+4735,Motor Yacht,14.34,4.01,62,300300.0,Denmark , Frankrig,new,18
+4761,Motor Yacht,10.53,3.32,106,300892.5,Germany , Bayern ,new,4
+4765,Hardtop,10.56,3.27,31,299925.0,France ," BORMES LES MIMOSAS, France",new,4
+4770,Pilothouse,9.8,3.19,309,299698.175,Switzerland , Lake Constance ,new,4
+4771,Hardtop,9.63,3.32,97,299028.45,Spain , Port Ginesta,new,4
+4772,Motor Yacht,10.25,3.5,227,298850.0,Italy , noch in Produktion,new,4
+4776,Motor Yacht,10.7,3.4,75,329590.1,Switzerland , 3421 Lyssach,new,7
+4779,Hardtop,10.98,3.8,32,297345.0,Italy , Campania ,new,5
+4780,Hardtop,10.03,3.23,132,296915.0,Germany , Baden-W¼rttemberg ,new,4
+4782,Hardtop,9.46,3.24,252,296103.375,Switzerland , Vierwaldst¤ttersee ,new,4
+4788,Flybridge,11.37,3.8,44,295625.0,France ," La Seyne-sur-Mer, France",new,5
+4797,Motor Yacht,10.5,3.32,132,295517.5,Germany , Bayern ,new,5
+4801,Cabin Boat,11.4,3.5,178,294550.0,Switzerland , Lake Geneva ,new,4
+4805,Cabin Boat,10.7,3.1,220,292400.0,Switzerland , Lake Constance ,new,4
+4807,Bowrider,8.13,2.59,183,322556.5,Switzerland , Lago Maggiore ,new,4
+4838,"Classic,Runabout",11.0,2.99,285,316512.0,Switzerland , Lago Maggiore ,new,6
+4839,Motor Yacht,11.47,3.62,45,285656.52499999997,Germany , Bnningstedt,new,4
+4841,Sport Boat,10.36,2.55,156,284875.0,Switzerland , Lake Constance ,new,3
+4878,House Boat,15.0,5.6,76,279392.5,Netherlands , Nieuwbouw,new,4
+4890,Sport Boat,8.85,2.62,286,305319.784,Switzerland , Stansstad,new,5
+4892,Hardtop,11.7,3.75,58,275200.0,Italy , Toscana ,new,4
+4895,Motor Yacht,11.95,3.6,41,275038.75,Turkey , T¼rkei,new,6
+4906,Hardtop,10.44,3.32,75,274017.5,Germany , Berlin ,new,5
+4909,Hardtop,13.29,3.99,129,270255.69999999995,Denmark , Ab v¦rft,new,4
+4911,Hardtop,9.9,3.4,75,272372.75,Spain , Port Ginesta,new,4
+4913,Trawler,11.29,3.96,54,271760.0,France ," 29200 BREST, France",new,4
+4936,Motor Yacht,10.0,2.78,164,268642.5,Spain , Ibiza,new,5
+4938,Motor Yacht,10.31,3.5,106,268579.075,Germany , Nordsee ,new,4
+4950,Hardtop,10.45,3.37,32,267675.0,France ," Mandelieu la Napoule, France",new,4
+4956,Hardtop,9.95,3.35,71,267675.0,France ," PORT LEUCATE, France",new,4
+4958,Cabin Boat,9.97,3.0,173,267460.0,Germany , Lake Constance ,new,4
+4959,"Classic,Runabout",7.57,2.25,191,267352.5,Switzerland , Lake Constance ,new,3
+4964,Trawler,9.99,3.53,125,266600.0,Belgium ," Nieuport, Belgique",new,6
+4965,Sport Boat,11.37,3.54,104,266406.5,Switzerland , Gottlieben ,new,4
+4978,Flybridge,12.0,4.2,161,261870.0,Italy , Lake Garda ,new,6
+4979,Motor Yacht,10.52,3.2,41,261225.0,Germany , Bnningstedt,new,4
+4980,Motor Yacht,9.58,3.53,68,260956.25,Germany , Mannheim ,new,5
+4983,Deck Boat,11.94,3.5,138,260150.0,Italy , Toscana ,new,4
+4985,Pilothouse,9.0,2.0,100,257256.99999999997,Denmark , Svendborg,new,4
+4986,Bowrider,9.16,2.87,164,286629.091,Switzerland , Stansstad,new,5
+4994,Motor Yacht,10.5,3.32,88,258024.72499999998,Germany , Bnningstedt,new,4
+5012,Pilothouse,10.5,3.35,54,256925.0,France ," BORMES LES MIMOSAS, France",new,4
+5014,Hardtop,9.95,3.32,26,256925.0,France ," LA GRANDE MOTTE, France",new,4
+5024,Flybridge,10.45,3.37,119,256817.5,Germany , Bnningstedt,new,4
+5025,Hardtop,9.6,2.94,319,256237.0,Switzerland , Vierwaldst¤ttersee ,new,3
+5027,House Boat,19.95,4.85,118,255850.0,Netherlands , nieuwbouw,new,4
+5030,Pilothouse,12.0,3.97,87,252625.0,Poland , Malbork,new,8
+5033,Motor Yacht,10.8,3.59,193,252625.0,Germany , Baden-W¼rttemberg ,new,5
+5034,Motor Yacht,11.0,3.75,55,252625.0,Turkey , Istanbul,new,5
+5038,Motor Yacht,10.45,3.37,342,252625.0,Switzerland , Neuenburgersee ,new,4
+5053,Motor Yacht,9.99,3.49,72,248159.626,Denmark , ab v¦rft,new,4
+5059,Sport Boat,8.24,2.6,245,273651.0,Switzerland , Lago Maggiore ,new,5
+5081,Bowrider,8.67,2.49,620,246148.125,Switzerland , Lake Constance ,new,5
+5085,Pilothouse,11.5,3.0,290,270354.0,Switzerland , Bielersee ,new,7
+5088,Hardtop,11.66,3.59,180,240654.69999999998,Denmark , Abv¦rft,new,4
+5093,Sport Boat,6.8,2.07,44,241875.0,Austria , Linz,new,7
+5104,Motor Yacht,11.2,3.6,71,239863.675,Germany , Nordrhein-Westfalen ,new,5
+5107,Motor Yacht,11.7,3.75,50,237022.49999999997,Denmark , Frankrig,new,13
+5109,Hardtop,10.03,3.07,46,252240.0,United Kingdom ," Swanwick, Swanwick",new,4
+5111,Cabin Boat,9.3,2.2,280,261616.94999999998,Switzerland , Lake of Zurich ,new,5
+5134,Hardtop,11.4,3.45,132,235425.0,Italy , Toscana ,new,4
+5141,Sport Boat,9.95,3.35,56,235425.0,France ," PORT LEUCATE, France",new,4
+5143,Pilothouse,11.0,3.5,195,235425.0,Germany , Baden-W¼rttemberg ,new,4
+5163,Pilothouse,9.94,3.37,106,231125.0,Italy , Liguria ,new,4
+5173,Motor Yacht,9.95,3.32,43,231017.5,France ," MARTIGUES, France",new,4
+5181,Motor Yacht,9.95,3.35,87,229942.5,Germany , Flensburg,new,4
+5207,Cabin Boat,9.15,3.1,180,225750.0,Germany , Kressbronn,new,4
+5211,Cabin Boat,10.45,3.37,121,225642.5,Germany , Bayern ,new,4
+5221,Sport Boat,10.61,3.35,119,220375.0,Spain ," Barcelona, Espagne",new,4
+5223,Flybridge,11.65,3.99,203,220267.5,Italy , Moniga del Garda (BS),new,6
+5225,Sport Boat,9.23,2.98,65,219192.5,Germany , 2,new,4
+5226,Hardtop,10.0,3.0,62,218688.32499999998,Spain , Alicante (Alacant),new,4
+5230,Motor Yacht,9.84,2.97,135,215554.69999999998,Switzerland , Lake Constance ,new,4
+5235,House Boat,11.99,7.55,140,215000.0,Netherlands , Nieuwbouw,new,4
+5250,Center console boat,10.2,3.4,207,214892.5,Switzerland , Lake Geneva ,new,4
+5265,Sport Boat,9.35,2.95,73,213925.0,Germany , Info Nautic Yachting,new,5
+5295,Sport Boat,9.63,3.35,69,213777.72499999998,Spain , Hospitalet del Infante,new,5
+5296,House Boat,12.0,4.44,51,213387.5,Netherlands , Op afspraak | on appointment | auf Termin,new,4
+5297,Cabin Boat,9.97,3.0,206,213387.5,Switzerland , Lake Geneva ,new,4
+5298,Sport Boat,9.95,3.03,161,213387.5,Switzerland , Lake Constance ,new,4
+5302,Cabin Boat,9.35,2.95,206,212850.0,Switzerland , Lake Constance ,new,4
+5334,Sport Boat,9.95,3.32,30,209625.0,France ," Antibes, Antibes",new,4
+5340,Motor Yacht,9.02,3.15,126,209625.0,Finland , Finnland,new,4
+5342,House Boat,13.2,4.4,65,209625.0,Poland , Nieuwbouw,new,4
+5347,Hardtop,10.21,3.49,97,207012.75,France ," les sables d olonne, France",new,4
+5348,Deck Boat,11.2,3.3,144,206400.0,Italy , Toscana ,new,4
+5362,Motor Yacht,9.35,2.95,237,204250.0,Germany , Ausstellungshalle Traben-Trarbach,new,5
+5366,Sport Boat,8.05,3.05,230,204250.0,Germany , Traben-Trabach,new,4
+5367,Cabin Boat,8.05,3.05,199,204250.0,Germany , Traben-Trabach,new,4
+5375,Sport Boat,10.57,3.21,56,204142.5,Germany , Bayern ,new,4
+5397,Hardtop,8.5,3.05,141,224196.0,Switzerland , Vierwaldst¤ttersee ,new,4
+5398,Cabin Boat,9.23,2.98,60,202637.5,Germany , Schwebheim / Schweinfurt,new,4
+5403,Motor Yacht,11.65,3.99,117,201562.5,Italy , Moniga del Garda (BS),new,6
+5419,Sport Boat,8.8,2.59,324,198456.82499999998,Switzerland , Lake Constance ,new,4
+5420,Sport Boat,9.85,2.98,474,219250.5,Switzerland , Lake of Zurich ,new,4
+5421,Pilothouse,9.15,2.75,181,218535.051,Switzerland , Vierwaldst¤ttersee ,new,5
+5422,Sport Boat,9.88,2.95,100,197047.5,Germany , Gummersbach,new,5
+5424,Motor Yacht,13.8,4.05,128,193049.99999999997,Denmark , Tyskland,new,25
+5427,Hardtop,9.42,3.18,45,206187.5,United Kingdom ," Swanwick, Swanwick",new,5
+5429,Bowrider,8.23,2.59,371,214305.0,Switzerland , Gottlieben ,new,4
+5443,House Boat,12.0,5.0,85,193285.0,Netherlands , Nieuwbouw,new,4
+5451,Wakeboard/Wakesurf,7.7,2.59,66,192962.5,Germany , Rheinland-Pfalz ,new,4
+5468,Sport Boat,10.5,3.2,42,192425.0,France ," BORMES LES MIMOSAS, BORMES LES MIMOSAS",new,4
+5476,Center console boat,7.99,2.95,258,190371.75,Switzerland , Lake Geneva ,new,4
+5478,Sport Boat,8.1,2.6,146,189861.125,Switzerland , Lake Constance ,new,3
+5480,Flybridge,10.28,3.59,107,189092.5,Italy , Moniga del Garda (BS),new,6
+5481,Sport Boat,8.67,2.51,214,189036.6,Switzerland , Lake Constance ,new,4
+5484,Motor Yacht,10.7,3.4,131,208700.1,Switzerland , 3421 Lyssach,new,7
+5510,Center console boat,7.99,2.95,81,187695.0,France ," Ajaccio, France",new,4
+5518,Sport Boat,8.25,3.05,160,206590.02,Switzerland , Vierwaldst¤ttersee ,new,4
+5519,Hardtop,10.45,3.37,59,186577.0,France ," LA GRANDE MOTTE, France",new,4
+5521,Hardtop,10.4,2.99,284,186319.0,Germany , Lake Constance ,new,4
+5523,Cabin Boat,8.78,2.6,325,205310.78399999999,Switzerland , Lake of Zurich ,new,3
+5524,Motor Yacht,9.35,2.95,145,185652.5,Netherlands , Lelystad,new,5
+5544,House Boat,10.5,3.8,54,182642.5,Netherlands , Nieuwbouw,new,4
+5568,Pilothouse,8.18,3.02,82,191372.5,United Kingdom ," Swanwick, Swanwick",new,4
+5569,Motor Yacht,10.94,3.31,148,178163.69999999998,Denmark , Ab v¦rft,new,4
+5574,Motor Yacht,11.2,3.3,134,178450.0,Italy , Toscana ,new,4
+5576,Center console boat,10.2,3.4,115,178342.5,Switzerland , Lake Geneva ,new,4
+5577,House Boat,11.98,5.0,75,178235.0,Netherlands , Nieuwbouw,new,4
+5600,Motor Yacht,11.16,3.49,173,177149.25,Germany , Gersthofen - Augsburg,new,3
+5601,Deck Boat,9.98,3.35,130,177106.25,Germany , Baden-W¼rttemberg ,new,4
+5604,Hardtop,9.22,3.0,39,187437.5,United Kingdom ," Lincoln, Lincoln",new,4
+5608,Pilothouse,9.14,3.02,78,185817.5,United Kingdom ," Swanwick, Royaume Uni",new,4
+5611,Motor Yacht,11.16,3.49,136,175214.25,Austria , Wiener Neustadt,new,4
+5614,Sport Boat,8.0,2.54,69,173882.32499999998,France ," MANDELIEU LA NAPOULE, France",new,4
+5616,Sport Boat,8.46,2.55,190,173075.0,Switzerland , Lake Constance ,new,6
+5619,Cabin Boat,8.9,2.84,162,172193.5,Germany , Baden-W¼rttemberg ,new,5
+5634,Cabin Boat,8.9,2.99,88,171892.5,Germany , Bayern ,new,4
+5635,Cabin Boat,10.45,3.37,169,171892.5,Germany , Bayern ,new,4
+5643,Sport Boat,9.31,2.99,1710,171310.925,Switzerland , Lake Constance ,new,4
+5644,Pilothouse,9.9,3.4,86,170990.57499999998,Portugal ," Portim£o, Portugal",new,4
+5656,Sport Boat,8.9,2.84,133,170912.1,France ," Frejus, France",new,5
+5659,Sport Boat,8.1,2.56,254,170226.25,Germany , Baden-W¼rttemberg ,new,4
+5666,Sport Boat,7.47,2.5,358,169518.9,Switzerland , Lake Constance ,new,4
+5668,Sport Boat,9.98,3.23,30,179230.0,United Kingdom ," Lincoln, Lincoln",new,4
+5671,House Boat,11.0,4.4,225,167700.0,Poland , Gizycko Masurian Lakes,new,4
+5674,Sport Boat,7.88,2.46,301,184896.859,Switzerland , Vierwaldst¤ttersee ,new,5
+5675,Sport Boat,7.88,2.46,148,184896.859,Switzerland , Bielersee ,new,5
+5676,Sport Boat,7.88,2.46,246,184632.0,Switzerland , Lago Maggiore ,new,5
+5679,House Boat,15.0,4.5,181,166625.0,Netherlands , Nieuwbouw,new,4
+5690,Sport Boat,7.85,2.49,306,166242.3,Austria , Linz Schauraum TopYacht,new,5
+5693,Motor Yacht,11.08,3.4,104,165972.475,France , France,new,4
+5694,Sport Boat,8.6,2.7,89,165711.25,France ," MANDELIEU LA NAPOULE, France",new,4
+5697,Hardtop,9.19,3.1,277,165550.0,Switzerland , Lake Constance ,new,4
+5703,Sport Boat,8.8,2.85,132,165163.0,Croatia (Hrvatska) , Trogir ,new,4
+5705,Hardtop,9.14,2.74,57,174937.5,United Kingdom ," Lincoln, Lincoln",new,7
+5707,House Boat,14.6,4.35,92,164313.75,Netherlands , onbekend,new,4
+5709,Sport Boat,7.85,2.49,433,163684.875,Switzerland , Luganersee ,new,4
+5710,Motor Yacht,8.5,2.99,120,163615.0,Germany , Rhein ,new,4
+5711,Pilothouse,9.2,2.95,268,163437.625,Switzerland , Lake Geneva ,new,4
+5716,Sport Boat,7.9,2.59,71,162862.5,Austria , Linz,new,4
+5742,Pilothouse,9.0,2.99,68,161250.0,France ," Lorient, France",new,4
+5752,Flybridge,11.4,3.5,431,160294.32499999998,Poland , Werft,new,5
+5753,Sport Boat,10.57,3.21,76,160250.25,France ," LA ROCHELLE, LA ROCHELLE",new,4
+5781,Wakeboard/Wakesurf,7.24,2.59,53,159637.5,Germany , Rheinland-Pfalz ,new,4
+5801,Pilothouse,8.4,3.0,89,158562.5,Germany , Schleswig-Holstein ,new,4
+5802,Sport Boat,9.95,3.35,65,158261.5,Spain ," Ma³-Mah³n, Espagne",new,5
+5808,Sport Boat,8.3,2.59,145,157702.5,Austria , Linz,new,4
+5811,Sport Boat,7.9,2.5,79,156897.32499999998,France ," MANDELIEU LA NAPOULE, France",new,4
+5836,Motor Yacht,9.31,2.99,131,155767.5,Germany , Baden-W¼rttemberg ,new,5
+5837,Motor Yacht,9.31,2.99,132,155767.5,Germany , Lake Constance ,new,5
+5838,Pilothouse,8.9,2.99,67,155767.5,Germany , Bnningstedt,new,4
+5839,Cabin Boat,7.9,2.5,194,155567.55,Germany , Lake Constance ,new,4
+5841,Cabin Boat,8.1,2.56,94,154692.5,Germany , Boote Pfister GmbH Schwebheim / Schweinfurt,new,3
+5843,Hardtop,9.23,3.0,87,152312.44999999998,France ," LES ISSAMBRES, France",new,4
+5844,Hardtop,10.06,3.31,161,152112.5,Italy , Lake Garda ,new,6
+5845,Center console boat,8.6,2.98,89,151921.15,France ," Propriano, France",new,4
+5846,Sport Boat,8.0,2.0,86,150007.0,Denmark , Svendborg,new,4
+5847,Bowrider,7.41,2.54,46,151080.5,France ," Les Issambres, France",new,4
+5848,House Boat,13.4,4.35,70,150989.125,Netherlands , onbekend,new,4
+5857,Center console boat,7.6,3.5,83,150500.0,Italy , Marche - Umbria ,new,6
+5867,Sport Boat,9.3,3.64,55,150500.0,Italy , Campania ,new,4
+5882,Deck Boat,8.5,3.04,36,149425.0,Germany , Berlin ,new,7
+5904,Sport Boat,9.02,3.12,529,148887.5,Switzerland , Gottlieben ,new,4
+5921,Sport Boat,7.7,2.54,54,147167.5,Germany , Schwebheim / Schweinfurt,new,4
+5922,Sport Boat,7.89,2.59,110,146802.0,Germany , Baden-W¼rttemberg ,new,4
+5923,Cabin Boat,7.4,2.6,142,161844.235,Switzerland , Lake of Zurich ,new,3
+5925,Motor Yacht,8.4,2.5,200,160344.1,Switzerland , Bielersee ,new,7
+5926,Bowrider,8.0,2.5,134,145390.525,Germany , Lake Constance ,new,3
+5930,Trawler,14.95,3.9,99,145125.0,Netherlands , onbekend,new,13
+5938,Sport Boat,9.4,2.95,131,145125.0,Switzerland , Lago Maggiore ,new,4
+5942,Center console boat,8.15,2.6,216,145125.0,Sweden , In Produktion ,new,4
+5945,Pilothouse,9.12,2.99,54,145125.0,France ," ARZON, France",new,4
+5959,Cabin Boat,8.28,2.55,140,145017.5,Germany , Boote Pfister GmbH Schwebheim / Schweinfurt,new,3
+5962,House Boat,11.98,5.0,43,144587.5,Netherlands , Nieuwbouw,new,4
+5963,Sport Boat,9.98,3.32,56,144520.85,France , France,new,4
+5965,Pilothouse,9.29,2.99,328,159355.0,Switzerland , Neuenburgersee ,new,5
+5966,Motor Yacht,8.9,2.99,422,159355.0,Switzerland , Neuenburgersee ,new,3
+5967,Motor Yacht,10.06,3.31,147,142867.5,Italy , Lake Garda ,new,6
+5971,Sport Boat,8.18,2.49,341,141900.0,Switzerland , Lago Maggiore ,new,4
+5972,Cabin Boat,8.91,2.89,59,141900.0,Germany , Niedersachsen ,new,4
+5974,Sport Boat,7.0,2.0,29,140426.0,Denmark , Svendborg,new,4
+5975,Deck Boat,9.12,3.02,98,149937.5,United Kingdom ," Swanwick, Swanwick",new,5
+5978,Center console boat,8.6,2.98,36,140825.0,Germany , Bnningstedt,new,4
+5983,Motor Yacht,8.8,2.8,187,153750.1,Switzerland , Bielersee ,new,7
+5999,Pilothouse,8.26,2.95,46,139748.925,Spain ," Hospitalet del Infante, Espagne",new,4
+6002,Bowrider,7.89,2.59,87,139459.75,Germany , Bayern ,new,5
+6014,House Boat,8.5,3.8,86,138675.0,Netherlands , Nieuwbouw,new,4
+6033,Motor Yacht,9.15,2.98,177,138647.05,Netherlands , onbekend,new,5
+6047,Wakeboard/Wakesurf,7.4,2.5,193,151006.99599999998,Switzerland , Lake of Zurich ,new,3
+6050,Sport Boat,8.5,2.94,40,136525.0,France ," La Seyne-sur-Mer, France",new,5
+6059,Cabin Boat,7.89,2.54,191,134375.0,Germany , Bayern ,new,4
+6066,Pilothouse,8.23,2.99,59,134375.0,France ," La Rochelle, France",new,5
+6082,House Boat,12.0,4.3,49,134375.0,Netherlands ," In aanbouw, bezichtiging op afspraak.",new,4
+6089,Cabin Boat,9.58,2.99,148,147958.37,Switzerland , Bouveret,new,4
+6092,Hardtop,7.48,2.56,166,147815.5,Switzerland , Lake Constance ,new,4
+6094,Center console boat,7.99,2.95,71,133730.0,Spain ," Ma³-Mah³n, Espagne",new,5
+6095,Hardtop,7.97,2.56,229,147771.54,Switzerland , Vierwaldst¤ttersee ,new,5
+6096,Sport Boat,7.59,2.5,110,147558.334,Switzerland , Luganersee ,new,4
+6099,Water ski,6.67,2.49,81,133300.0,Germany , Rheinland-Pfalz ,new,4
+6101,Sport Boat,8.42,2.64,185,132728.1,Switzerland , Vierwaldst¤ttersee ,new,3
+6105,Sport Boat,7.6,2.5,109,131902.5,Italy , Lombardia - Trentino Alto Adige ,new,5
+6106,Sport Boat,7.48,2.56,140,145617.5,Switzerland , Vierwaldst¤ttersee ,new,4
+6107,Sport Boat,7.48,2.54,179,145606.51,Switzerland , Vierwaldst¤ttersee ,new,5
+6108,Fishing Boat,7.5,2.6,163,145576.837,Switzerland , Villarepos,new,4
+6112,Bowrider,7.89,2.55,75,131042.5,Germany , Bayern ,new,4
+6113,Sport Boat,7.85,2.49,101,131042.5,Spain ," Ma³-Mah³n, Espagne",new,5
+6118,Pilothouse,10.5,3.35,79,130483.5,Germany , Bnningstedt,new,4
+6133,Sport Boat,9.0,2.97,35,129000.0,France ," PORNICHET, PORNICHET",new,5
+6143,Deck Boat,8.6,2.98,44,129000.0,France ," Brest, France",new,5
+6153,Pilothouse,8.26,2.98,84,128892.5,Germany , Schleswig-Holstein ,new,4
+6156,Pilothouse,9.1,2.98,64,128677.5,France ," LA GRANDE MOTTE, LA GRANDE MOTTE",new,5
+6157,Pilothouse,8.81,2.96,91,128570.0,Spain ," Zumaya, Espagne",new,4
+6158,House Boat,14.4,4.35,62,128570.0,Lithuania , onbekend,new,4
+6183,Pilothouse,7.48,2.56,277,127925.0,Germany , Traben-Trabach,new,4
+6193,Wakeboard/Wakesurf,7.73,2.55,66,127387.5,Germany , Rheinland-Pfalz ,new,4
+6194,Motor Yacht,9.9,3.0,235,127304.72499999999,Germany , Potsdam-Deetz,new,4
+6195,Sport Boat,9.0,2.0,73,127303.65,Portugal , Parchal,new,4
+6198,Sport Boat,8.1,2.56,25,127280.0,Germany , Berlin ,new,4
+6207,Pilothouse,8.8,2.99,38,126613.5,France ," FRANCE, France",new,4
+6210,Sport Boat,7.0,2.5,785,138364.1,Switzerland , Uznach ,new,5
+6214,Cabin Boat,7.4,2.5,138,124029.2,Germany , Bayern ,new,4
+6215,Sport Boat,7.4,2.6,168,136952.984,Switzerland , Lake of Zurich ,new,3
+6249,Motor Yacht,7.85,2.49,328,123311.09999999999,Italy , onbekend,new,5
+6253,Motor Yacht,8.15,2.55,111,122496.25,Germany , Nordrhein-Westfalen ,new,4
+6257,Center console boat,9.6,2.48,81,122442.5,France ," Andernos, France",new,4
+6261,Pilothouse,8.0,2.0,63,120548.99999999999,Denmark , Svendborg,new,5
+6264,Sport Boat,7.9,2.59,77,121475.0,Germany , Berlin ,new,4
+6269,Pilothouse,8.9,2.99,284,120754.75,Switzerland , Lake Constance ,new,4
+6270,Sport Boat,8.08,3.12,429,120744.0,Switzerland , Gottlieben ,new,4
+6271,Sport Boat,7.42,2.5,239,133142.751,Switzerland , Lake Constance ,new,4
+6275,Motor Yacht,8.7,2.7,433,118250.0,Switzerland , Lake Geneva ,new,5
+6314,Motor Yacht,7.7,2.8,218,130011.7,Switzerland , Lake Geneva ,new,4
+6315,House Boat,12.0,4.2,168,117282.5,Germany , Deutschland,new,4
+6316,Pilothouse,7.64,2.74,112,117261.0,Switzerland , Vierwaldst¤ttersee ,new,4
+6328,Deck Boat,9.0,2.97,39,117175.0,France ," LEGE, LEGE",new,4
+6333,House Boat,12.2,4.34,113,117175.0,Lithuania , onbekend,new,4
+6344,Cabin Boat,8.15,2.55,192,114917.5,Germany , Boote Pfister GmbH Schwebheim / Schweinfurt,new,3
+6345,Center console boat,9.12,2.98,106,114863.75,France ," LA GRANDE MOTTE, France",new,4
+6349,Pilothouse,7.98,2.0,86,114153.17499999999,Spain ," Palma, Espagne",new,4
+6371,Flybridge,10.6,3.0,184,112855.65,Germany , Potsdam - Deetz,new,4
+6373,Cabin Boat,7.4,2.5,98,112628.825,Germany , Lake Constance ,new,3
+6374,Sport Boat,7.42,2.5,136,124291.405,Switzerland , Vierwaldst¤ttersee ,new,4
+6375,Bowrider,7.4,2.5,98,112384.79999999999,Germany , Lake Constance ,new,3
+6377,Sport Boat,9.0,2.97,69,112122.5,Spain ," Ma³-Mah³n, Espagne",new,5
+6384,Sport Boat,8.7,2.7,146,111496.84999999999,Switzerland , Lake Constance ,new,4
+6386,Sport Boat,8.74,2.59,78,110983.0,Germany , Gummersbach,new,5
+6387,Motor Yacht,9.12,2.99,106,110434.75,Germany , Niedersachsen ,new,3
+6389,Center console boat,9.12,2.98,89,109660.75,France ," LA GRANDE MOTTE, France",new,4
+6390,Sport Boat,9.0,2.97,55,109650.0,Spain ," Barcelona, Espagne",new,4
+6392,Wakeboard/Wakesurf,6.71,2.5,292,120890.0,Switzerland , Murtensee ,new,3
+6396,Sport Boat,8.1,2.59,68,109112.5,Germany , Gummersbach,new,5
+6397,Motor Yacht,9.0,2.95,81,108896.42499999999,France , France,new,4
+6407,House Boat,9.6,4.4,122,107500.0,Netherlands , onbekend,new,4
+6412,Sport Boat,8.05,2.99,47,107498.92499999999,Germany , Kieler Bucht mit Fehmarn ,new,4
+6417,Sport Boat,8.74,2.8,181,107489.25,Germany , Erftstadt-Liblar,new,5
+6425,Sport Boat,7.6,2.5,104,107392.5,Germany , Bayern ,new,4
+6429,House Boat,11.49,4.36,103,107177.5,Lithuania , onbekend,new,4
+6434,Pilothouse,8.44,2.87,108,106962.5,Germany , Erftstadt-Liblar,new,4
+6441,Motor Yacht,10.6,3.0,328,106951.75,Germany , Potsdam - Deetz,new,4
+6466,Sport Boat,8.5,2.89,36,106425.0,France ," Lorient, France",new,5
+6484,Sport Boat,6.7,2.25,132,117593.0,Switzerland , Lake of Zurich ,new,4
+6486,Sport Boat,9.0,2.94,91,106296.0,Austria , Wiener Neustadt,new,5
+6487,Sport Boat,7.3,2.6,196,117475.40699999999,Switzerland , Lake of Zurich ,new,3
+6501,Sport Boat,9.0,2.97,56,105350.0,France ," SAINT-MALO, SAINT-MALO",new,6
+6519,Sport Boat,8.06,3.0,77,105081.25,Germany , Niedersachsen ,new,4
+6525,Launch,7.31,2.69,81,103468.75,Spain ," Ma³-Mah³n, Espagne",new,5
+6534,Cabin Boat,8.15,2.55,64,103198.925,Germany , Kiel,new,4
+6537,Deck Boat,9.0,2.97,56,103059.175,Spain ," Palma, Espagne",new,6
+6538,Pilothouse,8.23,2.99,118,102974.25,Austria , Wiener Neustadt,new,4
+6539,Sport Boat,7.15,2.54,103,102770.0,Germany , Baden-W¼rttemberg ,new,3
+6570,Pilothouse,6.0,2.77,103,102125.0,Spain ," Hospitalet del Infante, Espagne",new,5
+6580,Sport Boat,7.1,2.55,53,100942.5,Austria , Linz Schauraum TopYacht,new,4
+6581,Bowrider,7.19,2.55,159,111018.78199999999,Switzerland , Stansstad,new,5
+6582,Pilothouse,6.95,2.55,232,100317.925,Switzerland , Vierwaldst¤ttersee ,new,5
+6584,Pilothouse,8.03,2.78,54,99994.34999999999,Spain ," Huelva, Espagne",new,5
+6589,Pilothouse,7.0,2.95,54,99514.9,Portugal ," Parchal, Portugal",new,4
+6590,Pilothouse,8.81,2.96,122,99514.9,Portugal ," Portim£o, Portugal",new,4
+6591,Cabin Boat,8.06,3.0,268,109954.95,Switzerland , Neuenburgersee ,new,4
+6595,Pilothouse,9.0,2.0,82,99423.525,Portugal ," Portim£o, Portugal",new,4
+6596,Sport Boat,7.6,2.6,107,109790.09999999999,Switzerland , Bielersee ,new,7
+6597,Wakeboard/Wakesurf,7.37,2.54,241,99337.525,Switzerland , Lake Constance ,new,6
+6598,Motor Yacht,10.52,3.2,117,99191.325,Germany , Bnningstedt,new,4
+6599,Cabin Boat,7.48,2.55,246,99050.5,Germany , Lake Constance ,new,4
+6607,Pilothouse,8.91,2.98,223,98898.925,Germany , Kieler Bucht mit Fehmarn ,new,4
+6608,Pilothouse,8.03,2.78,72,98882.8,Spain ," Huelva, Espagne",new,5
+6712,Cabin Boat,7.25,2.57,88,94492.5,Germany , 1,new,4
+6716,Pilothouse,7.99,2.54,361,94368.875,Switzerland , Vierwaldst¤ttersee ,new,4
+6717,Sport Boat,6.8,2.35,110,94277.5,Italy , Moniga del Garda (BS),new,5
+6724,Bowrider,6.8,2.5,43,93986.175,Germany , Bayern ,new,4
+6725,Pilothouse,6.4,2.4,135,103514.81,Switzerland , Vierwaldst¤ttersee ,new,4
+6742,Sport Boat,8.5,1.9,112,92450.0,France ," PORTICCIO, France",new,5
+6744,Bowrider,6.8,2.5,128,92409.15,Germany , Lake Constance ,new,3
+6749,Cabin Boat,8.7,2.7,210,92073.75,Switzerland , Lake Geneva ,new,4
+6750,Cabin Boat,7.3,2.55,116,92052.25,Germany , Konstanz-Dettingen,new,5
+6752,Deck Boat,7.37,2.44,52,97437.5,United Kingdom ," Lincoln, Lincoln",new,4
+6786,Sport Boat,7.13,2.53,61,91375.0,France ," 06600, France",new,4
+6803,Pilothouse,8.03,2.78,95,90300.0,Spain , Zumaya,new,5
+6806,Bowrider,7.35,2.3,147,98800.09999999999,Switzerland , Vierwaldst¤ttersee ,new,5
+6807,Bowrider,7.6,2.48,77,89751.75,Germany , Schleswig-Holstein ,new,4
+6822,Runabout,7.9,2.8,138,98541.83499999999,Switzerland , Avenches,new,5
+6824,Sport Boat,6.98,2.45,99,89093.84999999999,Switzerland , Lake Constance ,new,4
+6828,Sport Boat,7.0,2.0,50,86944.0,Denmark , Svendborg,new,5
+6829,Pilothouse,7.9,2.79,24,92993.75,United Kingdom ," Burton Waters, Burton Waters",new,4
+6836,Deck Boat,8.1,2.5,68,87075.0,France ," MARTIGUES, France",new,4
+6837,Motor Yacht,9.8,2.98,97,86967.5,Germany , Berlin ,new,4
+6839,Sport Boat,6.45,2.46,146,86909.45,Switzerland , Stansstad,new,4
+6843,Deck Boat,7.8,2.42,329,95613.0,Switzerland , Murtensee ,new,4
+6844,Sport Boat,7.0,2.0,53,85514.0,Denmark , Svendborg,new,4
+6868,Bowrider,7.47,2.59,67,85946.25,Spain ," Ma³-Mah³n, Espagne",new,5
+6870,Cabin Boat,7.8,2.45,144,85935.5,Slovenia , Sezana,new,4
+6878,Pilothouse,7.14,2.72,54,85892.5,France ," PORNICHET, PORNICHET",new,6
+6879,Pilothouse,8.03,2.78,19,85892.5,France ," MARTIGUES, MARTIGUES",new,5
+6885,Bowrider,5.7,2.4,100,85892.5,Germany , Schwebheim / Schweinfurt,new,4
+6904,Cabin Boat,6.96,2.5,147,93876.58,Switzerland , Lake Geneva ,new,4
+6946,Pilothouse,8.88,2.99,45,84923.925,Germany , Kieler Bucht mit Fehmarn ,new,4
+6953,Pilothouse,6.98,2.79,42,83850.0,Spain ," Sitges, Espagne",new,4
+6964,Sport Boat,6.5,2.55,337,92392.93,Switzerland , Vierwaldst¤ttersee ,new,5
+6966,Pilothouse,7.92,2.77,30,88455.0,United Kingdom ," Swanwick, Swanwick",new,4
+6968,Sport Boat,6.96,2.5,269,83341.525,Switzerland , Stansstad,new,5
+6979,Deck Boat,8.1,2.53,34,82425.625,France ," PLUNERET, France",new,4
+6980,Center console boat,7.8,2.74,91,87375.0,United Kingdom ," Levington, Maldon",new,5
+6982,Sport Boat,6.0,2.0,34,81367.0,Denmark , Svendborg,new,4
+6993,Deck Boat,8.1,2.5,59,81485.0,France ," LA GRANDE MOTTE, LA GRANDE MOTTE",new,5
+6994,Bowrider,6.4,2.54,303,89939.962,Switzerland , Lake Constance ,new,3
+6995,Sport Boat,8.1,2.5,70,81352.775,Austria , Wr. Neustadt,new,5
+6996,Sport Boat,6.28,2.46,107,81323.75,Germany , Baden-W¼rttemberg ,new,5
+6997,Pilothouse,7.17,2.8,39,81162.5,France ," granville, granville",new,4
+6998,Cabin Boat,7.2,2.29,162,81151.75,Germany , Ostsee ,new,5
+6999,Pilothouse,8.9,2.99,54,81104.45,Germany , Bnningstedt / Werft,new,4
+7000,Pilothouse,7.92,2.77,37,85960.0,United Kingdom ," Swanwick, Royaume Uni",new,4
+7002,Center console boat,7.0,2.0,34,80947.5,Spain ," Huelva, Espagne",new,4
+7027,Center console boat,8.1,2.5,48,80625.0,France ," Lorient, France",new,4
+7029,Center console boat,7.19,2.52,31,80625.0,France ," PORNICHET, France",new,4
+7034,Pilothouse,7.43,2.81,61,80625.0,France ," Arzon, Arzon",new,4
+7037,Cabin Boat,7.88,2.55,45,80622.84999999999,Germany , Niedersachsen ,new,4
+7038,House Boat,12.0,4.0,88,80614.25,Poland , Polen,new,5
+7044,Center console boat,8.1,2.5,40,80517.5,France ," LA GRANDE MOTTE, Martigues",new,4
+7048,Pilothouse,8.23,2.79,39,80517.5,France ," les sables d'olonne, les sables d'olonne",new,4
+7054,Deck Boat,8.1,2.5,48,80302.5,France ," LA GRANDE MOTTE, LA GRANDE MOTTE",new,4
+7056,Motor Yacht,8.48,2.75,188,80173.5,Germany , Berlin ,new,4
+7057,Deck Boat,7.62,2.51,39,84937.5,United Kingdom ," Swanwick, Swanwick",new,5
+7058,Motor Yacht,9.8,2.98,203,80087.5,Germany , Potsdam - Deetz,new,4
+7074,Cabin Boat,8.3,2.55,140,79539.25,Germany , Bayern ,new,4
+7083,Sport Boat,6.91,2.48,238,87370.5,Switzerland , Luganersee ,new,6
+7086,Sport Boat,7.34,2.44,46,83687.5,United Kingdom ," Lincoln, Lincoln",new,4
+7091,Pilothouse,9.0,2.95,57,78475.0,France ," LORIENT, LORIENT",new,5
+7103,Pilothouse,7.12,2.79,93,77615.0,Spain , La Escala,new,4
+7106,Pilothouse,6.82,2.51,280,77453.75,Switzerland , Vierwaldst¤ttersee ,new,6
+7107,Sport Boat,6.0,2.0,76,76648.0,Denmark , Svendborg,new,5
+7110,Wakeboard/Wakesurf,6.8,2.54,303,77400.0,Switzerland , Neuenburgersee ,new,5
+7113,Center console boat,7.13,2.5,26,77400.0,France ," Antibes, Antibes",new,5
+7114,Wakeboard/Wakesurf,6.24,2.44,67,77400.0,France ," Saint-Jorioz, France",new,5
+7123,Cabin Boat,6.74,2.46,65,77292.5,Spain , Mallorca ,new,4
+7124,Pilothouse,6.71,2.54,42,77292.5,France ," BORMES LES MIMOSAS, France",new,4
+7125,Bowrider,7.15,2.54,168,77292.5,Germany , Boote Pfister GmbH Schwebheim / Schweinfurt,new,3
+7126,Center console boat,7.37,2.52,71,77219.4,France ," Propriano, France",new,4
+7127,Cabin Boat,7.98,2.54,143,84403.2,Switzerland , Lake Constance ,new,4
+7132,Sport Boat,6.95,2.48,191,83930.63,Switzerland , Luganersee ,new,5
+7133,Cabin Boat,7.88,2.55,299,83787.76,Switzerland , Neuenburgersee ,new,4
+7136,Deck Boat,6.91,2.64,36,79993.75,United Kingdom ," Southampton, Maldon",new,7
+7137,Sport Boat,6.2,2.6,254,83338.269,Switzerland , Lake of Zurich ,new,3
+7163,Pilothouse,7.9,2.9,81,75248.925,Germany , Nordrhein-Westfalen ,new,6
+7164,Pilothouse,6.6,2.5,67,75248.925,Germany , Nordrhein-Westfalen ,new,5
+7166,Cabin Boat,6.6,2.1,111,75244.625,Germany , Bayern ,new,4
+7168,Sport Boat,8.23,2.79,79,75239.25,Germany , Schleswig-Holstein ,new,4
+7172,Cabin Boat,8.23,2.79,81,75196.25,Germany , Schleswig-Holstein ,new,4
+7174,Pilothouse,6.02,2.52,192,75142.5,Germany , Nordrhein-Westfalen ,new,6
+7177,Cabin Boat,7.1,2.57,262,75142.5,Germany , Nordrhein-Westfalen ,new,5
+7182,Cabin Boat,7.1,2.57,152,75142.5,Germany , Nordrhein-Westfalen ,new,5
+7184,Pilothouse,9.0,2.78,136,75142.5,Hungary ," Balatonf?zf?, Hongrie",new,6
+7186,Deck Boat,8.1,2.5,20,75142.5,France ," Lorient, France",new,5
+7188,Center console boat,7.19,2.52,58,75142.5,France ," Arzon, France",new,4
+7194,Bowrider,6.0,2.0,98,74074.0,Denmark , Svendborg,new,4
+7195,Center console boat,7.13,2.53,75,74820.0,Spain ," Barcelona, Espagne",new,4
+7196,Sport Boat,6.2,2.6,237,82581.058,Switzerland , Lake of Zurich ,new,3
+7206,Cabin Boat,7.4,2.85,81,74712.5,Germany , Niedersachsen ,new,4
+7216,Pilothouse,2.41,0.86,67,79181.25,United Kingdom ," Lincoln, Lincoln",new,4
+7217,Sport Boat,8.02,2.6,213,74669.5,Germany , Nordrhein-Westfalen ,new,4
+7261,Bowrider,6.55,2.54,99,73433.25,Germany , Baden-W¼rttemberg ,new,5
+7262,Pilothouse,6.91,2.57,21,77715.0,United Kingdom ," Swanwick, Swanwick",new,4
+7281,Center console boat,8.1,2.0,76,73081.72499999999,Spain ," Palma, Espagne",new,4
+7282,Sport Boat,6.06,2.36,290,80117.09999999999,Switzerland , Lake of Zurich ,new,4
+7283,Cabin Boat,6.71,2.54,161,72992.5,Germany , Bayern ,new,4
+7284,Center console boat,7.09,2.5,124,72992.5,France ," PORT LEUCATE, France",new,4
+7286,Wakeboard/Wakesurf,6.0,2.0,98,72025.0,France ," Rixheim, France",new,5
+7292,Sport Boat,7.1,2.53,162,72014.25,Germany , Bayern ,new,4
+7295,Center console boat,7.42,2.54,29,71917.5,France ," BORMES LES MIMOSAS, France",new,4
+7296,Pilothouse,7.48,2.5,23,71917.5,France ," PORT LEUCATE, France",new,4
+7300,Pilothouse,7.48,2.5,31,71810.0,France ," LA GRANDE MOTTE, France",new,4
+7302,Deck Boat,7.23,2.55,381,79128.0,Switzerland , Neuenburgersee ,new,4
+7304,Sport Boat,7.15,2.45,176,79128.0,Switzerland , Lago Maggiore ,new,4
+7306,Center console boat,8.2,2.53,39,71584.25,France ," 29200 BREST, France",new,4
+7309,House Boat,9.26,3.0,164,71487.5,Netherlands , Nieuwbouw,new,5
+7310,Center console boat,6.9,2.5,71,71487.5,Netherlands , onbekend,new,5
+7314,Deck Boat,8.0,2.43,133,71272.5,Italy , Toscana ,new,4
+7315,Cabin Boat,7.88,2.55,109,71218.75,Germany , Niedersachsen ,new,4
+7318,Sport Boat,6.0,2.0,144,69927.0,Denmark , Svendborg,new,4
+7319,Sport Boat,6.41,2.48,22,70627.5,France ," LA GRANDE MOTTE, France",new,4
+7321,Bowrider,6.2,2.24,94,70594.175,France ," cap d'agde, cap d'agde",new,6
+7324,Pilothouse,8.23,2.76,46,70412.5,France ," ARCACHON, ARCACHON",new,4
+7325,Center console boat,8.17,2.53,86,70412.5,France ," ARZON, France",new,4
+7328,Center console boat,7.37,3.52,30,70116.875,France ," Propriano, France",new,4
+7329,Bowrider,6.55,2.59,308,77479.5,Switzerland , Luganersee ,new,4
+7381,Sport Boat,7.19,2.59,137,69832.0,Germany ," GUMMERSBACH, FA. SIEGEL GMBH, GUMMERSBACH, FA. SIE",new,5
+7382,Sport Boat,7.19,2.59,56,69832.0,Germany ," GUMMERSBACH, FA. SIEGEL GMBH, GUMMERSBACH, FA. SIE",new,8
+7385,Cabin Boat,6.71,2.54,99,69767.5,Germany , Bayern ,new,4
+7392,Pontoon Boat,8.25,2.59,190,77091.553,Switzerland , Vierwaldst¤ttersee ,new,4
+7393,Sport Boat,8.48,2.7,259,69744.925,Germany , Potsdam-Deetz,new,4
+7398,Sport Boat,7.0,2.0,126,68926.0,Denmark , Svendborg,new,4
+7401,Sport Boat,6.48,2.46,114,76846.476,Switzerland , Vierwaldst¤ttersee ,new,4
+7402,Sport Boat,6.9,2.6,157,76820.09999999999,Switzerland , Vierwaldst¤ttersee ,new,5
+7403,Sport Boat,6.9,2.6,133,76820.09999999999,Switzerland , Vierwaldst¤ttersee ,new,5
+7404,Motor Yacht,7.8,2.73,177,76820.09999999999,Switzerland , Lake Geneva ,new,5
+7406,Sport Boat,7.12,2.44,126,69443.925,Germany , Kiel,new,4
+7407,Deck Boat,7.26,2.48,101,69420.275,Spain , Barcelona,new,4
+7408,Pilothouse,7.9,2.9,54,69379.425,Germany , Nordrhein-Westfalen ,new,5
+7411,Pilothouse,7.9,2.74,81,72990.0,United Kingdom ," LINCOLN, Royaume Uni",new,7
+7424,Pilothouse,6.48,2.5,82,68789.25,Spain ," Hospitalet del Infante, Espagne",new,5
+7425,Bowrider,6.55,2.6,35,68746.25,Germany , Berlin ,new,4
+7426,Cabin Boat,6.23,2.4,95,68692.5,Germany , Schwebheim / Schweinfurt,new,4
+7427,Cabin Boat,6.82,2.45,274,75874.95999999999,Switzerland , Lake Geneva ,new,4
+7434,Bowrider,5.94,2.54,118,68461.375,Germany , Baden-W¼rttemberg ,new,4
+7436,Cabin Boat,6.5,2.55,122,68294.75,Germany , Konstanz-Dettingen,new,5
+7438,Pilothouse,6.48,2.53,49,68262.5,Spain ," Hospitalet del Infante, Espagne",new,5
+7439,Sport Boat,7.67,2.44,48,68261.425,Germany , Kiel,new,4
+7440,Pilothouse,7.42,2.79,20,72273.75,United Kingdom ," Lincoln, Lincoln",new,4
+7451,Cabin Boat,6.82,2.45,137,67617.5,Germany , Bayern ,new,4
+7453,Sport Boat,6.86,2.48,36,67617.5,Germany , Bayern ,new,4
+7458,Center console boat,6.41,2.48,18,67510.0,France ," LA GRANDE MOTTE, France",new,4
+7460,Pilothouse,6.0,2.0,66,66781.0,Denmark , Svendborg,new,4
+7461,Fishing Boat,7.45,2.54,286,67364.875,Switzerland , Lake Constance ,new,4
+7464,Deck Boat,8.1,2.53,42,67187.5,France ," 56400 PLUNERET, 56400 PLUNERET",new,5
+7467,Passenger boat,8.5,2.8,190,74246.242,Switzerland , Bouveret,new,4
+7469,Center console boat,7.37,2.52,32,67080.0,France ," LA ROCHELLE, France",new,4
+7470,Pilothouse,7.48,2.53,219,66829.525,Switzerland , Stansstad,new,5
+7472,Cabin Boat,7.5,2.55,244,66112.5,Germany , Gersthofen 86368,new,4
+7473,Pilothouse,6.55,2.54,73,66112.5,Germany , Bayern ,new,4
+7475,Sport Boat,5.79,2.41,192,72986.788,Switzerland , Vierwaldst¤ttersee ,new,4
+7477,Center console boat,8.6,2.98,39,65753.45,Germany , Bnningstedt / Werft,new,4
+7478,Bowrider,6.8,2.54,190,65690.025,Switzerland , Lake Constance ,new,5
+7483,Deck Boat,7.88,2.55,93,65573.925,Germany , Kieler Bucht mit Fehmarn ,new,4
+7486,Bowrider,6.84,2.4,57,65338.5,Germany , Nordrhein-Westfalen ,new,4
+7487,Bowrider,6.1,2.5,69,65309.475,Germany , Lake Constance ,new,3
+7488,Deck Boat,8.1,2.5,43,65252.5,France ," LEGE, LEGE",new,5
+7489,Pilothouse,7.0,2.0,54,64492.99999999999,Denmark , Svendborg,new,4
+7490,Sport Boat,6.82,2.45,198,65123.5,Germany , Lake Constance ,new,4
+7498,Cabin Boat,9.0,2.9,188,64206.99999999999,Denmark , Showroom Toldbodgade 94 Randers,new,23
+7500,Pilothouse,7.8,2.74,41,68743.75,United Kingdom ," Burnham-on-Crouch, Maldon",new,6
+7514,Pilothouse,8.2,2.5,120,64500.0,Germany , auf Anfrage,new,4
+7525,Bowrider,5.7,2.4,42,64489.25,France ," Saint-Jorioz, France",new,5
+7526,Pilothouse,7.48,2.5,89,64489.25,Germany , Erftstadt-Liblar,new,4
+7528,Pilothouse,6.71,2.54,341,64460.225,Switzerland , Lake Constance ,new,5
+7529,Cabin Boat,6.6,2.1,150,64446.25,Germany , Bayern ,new,4
+7538,Bowrider,5.94,2.29,132,64392.5,Germany , Boote Pfister GmbH Schwebheim / Schweinfurt,new,4
+7540,Cabin Boat,6.84,2.4,66,64392.5,Germany , Schwebheim / Schweinfurt,new,4
+7545,Center console boat,7.37,2.54,33,68243.75,United Kingdom ," Burton Waters, Burton Waters",new,4
+7546,Cabin Boat,6.99,2.56,51,64338.75,Germany , Niedersachsen ,new,4
+7547,Sport Boat,6.55,2.54,79,64177.5,Austria , Linz Schauraum TopYacht,new,4
+7548,Bowrider,6.4,2.6,133,70885.5,Switzerland , Lake Constance ,new,6
+7549,Sport Boat,6.2,2.4,60,70841.54,Switzerland , Luganersee ,new,4
+7578,Deck Boat,6.6,2.5,121,63425.0,France ," 29200 BREST, 29200 BREST",new,5
+7591,Pilothouse,7.5,2.53,24,63425.0,France ," Lorient, France",new,4
+7598,Pilothouse,7.93,2.8,80,63382.0,France ," LA GARNDE MOTTE, France",new,4
+7599,Center console boat,6.13,2.45,29,63360.5,Spain ," Hospitalet del Infante, Espagne",new,4
+7600,Pilothouse,7.48,2.5,74,63317.5,France ," MARTIGUES, MARTIGUES",new,5
+7602,Pilothouse,6.48,2.5,45,63317.5,France ," 29200 BREST, France",new,5
+7604,Bowrider,5.94,2.29,68,63317.5,Germany , Boote Pfister GmbH Schwebheim / Schweinfurt,new,4
+7605,Sport Boat,6.23,2.4,66,63263.75,Germany , M¼ritz ,new,4
+7608,Pilothouse,7.43,2.81,115,63134.75,France ," LA GRANDE MOTTE, France",new,4
+7609,Center console boat,6.0,2.0,64,63133.674999999996,Spain ," Huelva, Espagne",new,5
+7610,Deck Boat,8.0,2.64,109,63102.5,Italy , Toscana ,new,4
+7611,Sport Boat,6.0,2.0,101,62347.99999999999,Denmark , Svendborg,new,4
+7612,Runabout,6.49,2.49,171,69555.70999999999,Switzerland , Vierwaldst¤ttersee ,new,4
+7613,Sport Boat,6.5,2.5,96,69542.522,Switzerland , Vierwaldst¤ttersee ,new,4
+7617,Pilothouse,7.48,2.5,44,62887.5,France ," HENDAYE, HENDAYE",new,4
+7618,Center console boat,7.64,2.73,103,62887.5,France ," saint malo, saint malo",new,5
+7621,Bowrider,6.84,2.44,70,62887.5,Germany , Bayern ,new,4
+7622,Center console boat,7.26,2.48,143,62790.75,France ," SAINT-MALO, France",new,4
+7623,Center console boat,7.37,2.52,88,62746.674999999996,France ," Propriano, France",new,4
+7624,Pilothouse,7.26,2.74,66,66243.75,United Kingdom ," Burnham-on-Crouch, Maldon",new,6
+7636,Sport Boat,7.75,2.55,177,62296.25,Germany , Gersthofen,new,4
+7637,Center console boat,7.0,2.5,21,62258.625,France ," LES SABLES OLONNE, France",new,4
+7639,Deck Boat,8.1,2.5,55,62242.5,France ," CAPBRETON, CAPBRETON",new,5
+7646,Sport Boat,7.52,2.28,186,61812.5,Germany , Lake Constance ,new,6
+7653,Sport Boat,6.19,2.48,198,68138.0,Switzerland , Lake of Zurich ,new,4
+7658,Pilothouse,8.88,2.99,75,61273.924999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+7660,Bowrider,6.0,2.0,37,60631.99999999999,Denmark , Svendborg,new,4
+7662,Center console boat,6.31,2.52,38,61167.5,Germany , Bnningstedt,new,4
+7663,Cabin Boat,6.9,2.48,70,61167.5,Germany , Bayern ,new,4
+7668,Pilothouse,7.15,2.5,70,60898.75,Germany , Hock Boote,new,9
+7670,Bowrider,2.48,6.4,209,67258.8,Switzerland , Vierwaldst¤ttersee ,new,4
+7672,Deck Boat,7.13,2.53,45,60737.5,France ," La Rochelle, France",new,5
+7673,Bowrider,5.94,2.54,116,60737.5,Germany , Boote Pfister GmbH Schwebheim / Schweinfurt,new,4
+7674,Sport Boat,6.0,2.5,285,67125.821,Switzerland , Lake of Zurich ,new,3
+7677,Bowrider,7.84,2.55,52,60490.25,France ," LA GRANDE MOTTE, France",new,4
+7678,Cabin Boat,6.99,2.55,256,66643.36,Switzerland , Neuenburgersee ,new,4
+7679,Center console boat,9.12,2.98,62,60252.674999999996,Germany , Bnningstedt,new,4
+7685,Runabout,6.86,2.25,562,65940.0,Switzerland , Lake Geneva ,new,15
+7688,Bowrider,6.55,2.54,69,60092.5,Germany , Boote Pfister GmbH Schwebheim / Schweinfurt,new,4
+7690,Center console boat,6.41,2.48,27,60092.5,France ," PLUNERET, France",new,4
+7693,Sport Boat,6.99,2.44,90,65830.1,Switzerland , Lake of Zurich ,new,11
+7695,Launch,6.4,2.6,68,60009.725,Germany , Potsdam ,new,4
+7698,Sport Boat,5.97,2.54,88,59721.625,Germany , Bayern ,new,4
+7706,Motor Yacht,6.3,2.34,126,65830.1,Switzerland , Lake Geneva ,new,4
+7707,Wakeboard/Wakesurf,6.0,2.44,110,59555.0,Germany , Nordrhein-Westfalen ,new,4
+7708,Sport Boat,6.05,2.22,149,65819.11,Switzerland , Vierwaldst¤ttersee ,new,4
+7709,Sport Boat,6.55,2.59,45,63125.0,United Kingdom ," Brightlingsea, Brightlingsea",new,5
+7711,Runabout,6.77,2.54,109,59436.75,Germany , auf Anfrage,new,4
+7712,Bowrider,6.82,2.45,171,65434.46,Switzerland , Lake Geneva ,new,4
+7713,Motor Yacht,6.35,2.43,187,65390.5,Switzerland , Yvonand,new,4
+7736,Center console boat,6.86,2.48,82,59125.0,France ," PORNICHET, France",new,4
+7737,Center console boat,6.86,2.48,31,59125.0,France ," PORNICHET, France",new,4
+7750,Sport Boat,6.55,2.54,67,59071.25,Germany , Bayern ,new,6
+7754,Pilothouse,5.59,2.44,24,59017.5,France ," Ajaccio, France",new,5
+7757,Cabin Boat,6.58,2.49,32,59017.5,Germany , 1,new,4
+7762,Pilothouse,6.68,2.51,41,62437.5,United Kingdom ," Swanwick, Swanwick",new,5
+7768,Sport Boat,7.12,2.44,77,58801.424999999996,Germany , Kiel,new,4
+7769,Bowrider,6.55,2.54,90,58738.0,Germany , Bayern ,new,4
+7770,Bowrider,6.0,2.39,190,58731.549999999996,Germany , kon,new,5
+7771,Bowrider,6.23,2.44,83,58673.5,Germany , Nordrhein-Westfalen ,new,4
+7776,Sport Boat,7.55,2.47,117,58630.5,Germany , auf Anfrage,new,4
+7785,Bowrider,6.1,2.4,119,58050.0,Germany , Baden-W¼rttemberg ,new,5
+7793,Runabout,6.99,2.55,63,58048.924999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+7795,Sport Boat,6.8,2.35,118,57942.5,Italy , Moniga del Garda (BS),new,5
+7796,Center console boat,6.05,2.22,97,57942.5,Spain , Mallorca ,new,4
+7797,Motor Yacht,8.23,2.76,89,57942.5,Slovak Republic , Slovakia,new,4
+7798,Center console boat,6.31,2.48,29,57942.5,France ," BORMES LES MIMOSAS, France",new,4
+7799,Center console boat,6.41,2.48,30,57942.5,France ," PLUNERET, France",new,5
+7800,Center console boat,6.41,2.45,15,57942.5,France ," PORT LEUCATE, France",new,4
+7801,Center console boat,6.41,2.48,39,57942.5,France ," PLUNERET, France",new,4
+7802,Center console boat,6.31,2.52,104,57942.5,Germany , Bnningstedt,new,4
+7805,Bowrider,6.82,2.45,296,63950.81,Switzerland , Lake Geneva ,new,4
+7808,Runabout,8.05,3.0,75,57833.924999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+7810,Bowrider,6.0,2.5,131,57785.549999999996,Germany , Lake Constance ,new,3
+7816,Sport Boat,6.84,2.44,217,56973.924999999996,Germany , Bayern ,new,4
+7817,Sport Boat,6.55,2.54,85,56973.924999999996,Germany , Bayern ,new,4
+7818,Center console boat,8.1,2.53,59,56941.674999999996,France ," SAINT-CYPRIEN, France, cap d agde, France",new,5
+7819,Center console boat,8.1,2.53,76,56941.674999999996,France ," cap d agde, France",new,5
+7821,Pilothouse,7.48,2.5,42,56867.5,France ," ARCACHON, ARCACHON",new,4
+7822,Bowrider,5.94,2.54,52,56867.5,Germany , Boote Pfister GmbH Schwebheim / Schweinfurt,new,4
+7825,Sport Boat,6.02,2.34,96,56749.25,Germany , Baden-W¼rttemberg ,new,4
+7826,Pilothouse,7.48,2.5,45,56652.5,France ," CAPBRETON, CAPBRETON",new,4
+7829,Deck Boat,6.23,2.52,22,56545.0,Spain ," D©nia, Alicante",new,6
+7839,Bowrider,6.1,2.25,195,56118.225,Switzerland , Vierwaldst¤ttersee ,new,5
+7840,Pilothouse,7.39,2.57,60,59325.0,United Kingdom ," Lincoln, Lincoln",new,4
+7841,Sport Boat,6.55,2.54,56,55898.924999999996,Germany , Bayern ,new,5
+7845,Center console boat,6.86,2.52,31,55792.5,Netherlands , In verkoophaven,new,4
+7848,Bowrider,5.64,2.16,196,61434.1,Switzerland , Lake of Zurich ,new,4
+7849,Center console boat,6.41,2.48,24,55532.35,France ," La Rochelle, France",new,4
+7851,Center console boat,6.86,2.48,35,55362.5,France ," LA ROCHELLE, LA ROCHELLE",new,4
+7852,Sport Boat,6.4,2.46,155,55362.5,Germany , Bayern ,new,4
+7857,Bowrider,6.39,2.29,129,55136.75,Germany , Ostsee ,new,4
+7860,Deck Boat,6.45,2.45,164,55013.125,Switzerland , Stansstad,new,4
+7861,Pilothouse,7.46,2.55,166,54841.125,Germany , Nordrhein-Westfalen ,new,6
+7862,Sport Boat,5.94,2.54,106,54825.0,Germany , Berlin ,new,5
+7864,Cabin Boat,6.55,2.48,113,54717.5,Germany , 1,new,4
+7869,Sport Boat,6.48,2.5,70,60335.1,Switzerland , Le Bouveret ,new,5
+7870,Fishing Boat,6.6,2.49,130,60335.1,Switzerland , Bouveret,new,5
+7904,Sport Boat,7.2,2.5,107,59335.01,Switzerland , Safenwil,new,4
+7906,Motor Yacht,7.15,2.5,49,53642.5,Germany , Hock Boote,new,9
+7918,Center console boat,6.41,2.45,66,53642.5,France ," ARCACHON, ARCACHON",new,4
+7921,Pilothouse,7.5,2.53,44,53642.5,France ," 56170 QUIBERON, France",new,5
+7924,Bowrider,6.55,2.54,129,53642.5,Germany , Boote Pfister GmbH Schwebheim / Schweinfurt,new,4
+7925,Sport Boat,5.6,2.2,62,53642.5,Germany , Bayern ,new,4
+7927,Sport Boat,6.05,2.2,49,53642.5,Germany , Bayern ,new,4
+7932,Bowrider,5.94,2.54,139,53642.5,Germany , Boote Pfister GmbH Schwebheim / Schweinfurt,new,3
+7935,Deck Boat,7.96,2.98,98,53320.0,Italy , Campania ,new,5
+7936,Cabin Boat,7.23,2.55,67,53277.0,Germany , Niedersachsen ,new,4
+7937,Pilothouse,6.5,2.4,40,53243.674999999996,France ," PLUNERET, France",new,4
+7950,Deck Boat,8.34,2.63,26,53212.5,Netherlands , Lemmer,new,5
+7968,Pilothouse,6.71,2.54,67,52879.25,France ," LA GRANDE MOTTE, France",new,4
+7970,Bowrider,6.23,2.4,272,58312.94,Switzerland , Lake Geneva ,new,4
+7971,Center console boat,6.8,2.49,256,58247.0,Switzerland , Bielersee ,new,4
+7979,Pilothouse,7.4,2.45,164,52675.0,Germany , auf Anfrage,new,4
+8001,Bowrider,6.2,2.54,143,58137.1,Switzerland , Lake Constance ,new,5
+8002,Bowrider,6.05,2.38,194,58137.1,Switzerland , Luzern,new,4
+8003,Sport Boat,6.0,2.0,98,52051.99999999999,Denmark , Svendborg,new,4
+8004,Bowrider,6.17,2.54,78,52589.0,France ," CAP D'AGDE, CAP D'AGDE",new,6
+8007,Sport Boat,6.66,2.55,68,52567.5,Germany , Bayern ,new,4
+8008,Bowrider,5.94,2.54,109,52567.5,Germany , Boote Pfister GmbH Schwebheim / Schweinfurt,new,4
+8009,Sport Boat,6.55,2.54,130,52567.5,Germany , Berlin ,new,5
+8013,Pilothouse,6.0,2.0,61,51622.99999999999,Denmark , Svendborg,new,4
+8015,Motor Yacht,6.45,2.55,39,52137.5,Italy , Venezia,new,5
+8021,Bowrider,6.81,2.36,144,57411.76,Switzerland , Lake Geneva ,new,4
+8023,Sport Boat,5.0,2.0,43,51336.99999999999,Denmark , Svendborg,new,4
+8025,Center console boat,6.43,2.52,56,51668.799999999996,Portugal ," Parchal, Portugal",new,5
+8026,Sport Boat,6.08,2.35,195,57038.1,Switzerland , Vierwaldst¤ttersee ,new,6
+8029,Sport Boat,5.99,2.21,42,51598.924999999996,Germany , Bayern ,new,5
+8030,Pilothouse,6.2,2.4,140,57016.119999999995,Switzerland , Neuenburgersee ,new,4
+8031,Pilothouse,5.52,2.4,111,51589.25,Spain , Hospitalet del Infante,new,4
+8032,Sport Boat,6.29,2.36,151,51546.25,Germany , Lake Constance ,new,4
+8033,Bowrider,5.94,2.54,60,51492.5,Germany , Boote Pfister GmbH Schwebheim / Schweinfurt,new,5
+8036,Bowrider,5.94,2.29,52,51492.5,Germany , Boote Pfister GmbH Schwebheim / Schweinfurt,new,4
+8039,Bowrider,5.76,2.3,233,56675.43,Switzerland , Thunersee ,new,4
+8040,Sport Boat,6.12,2.4,127,51084.0,Germany , Baden-W¼rttemberg ,new,4
+8051,Center console boat,6.05,2.22,70,50936.725,Germany , L¼becker Bucht ,new,5
+8052,Sport Boat,6.05,2.22,146,50936.725,Germany , Bleckede,new,5
+8059,Bowrider,5.0,2.0,62,49906.99999999999,Denmark , Svendborg,new,4
+8060,Pilothouse,6.4,5.45,119,50417.5,Germany , Bayern ,new,5
+8061,Bowrider,5.94,2.54,97,50417.5,Germany , Bayern ,new,4
+8062,Pilothouse,6.5,2.4,80,50417.5,France ," MARTIGUES, France",new,4
+8065,Cabin Boat,6.48,2.48,210,55651.162,Switzerland , Lake Geneva ,new,5
+8066,Deck Boat,6.58,2.46,42,53375.0,United Kingdom ," Burton Waters, Burton Waters",new,4
+8070,Center console boat,8.1,2.7,281,50310.0,Switzerland , Lake Geneva ,new,4
+8071,Bowrider,5.99,2.21,215,55378.61,Switzerland , Lake Constance ,new,4
+8072,Bowrider,5.99,2.21,247,55378.61,Switzerland , Lake Constance ,new,4
+8077,Bowrider,6.2,2.34,37,49987.5,Germany , Bayern ,new,4
+8079,Motor Yacht,6.99,2.5,109,55228.047,Switzerland , Lake Geneva ,new,5
+8081,Launch,5.9,2.5,74,49887.525,Germany , Potsdam ,new,4
+8082,Bowrider,6.2,2.4,222,55103.86,Switzerland , Neuenburgersee ,new,4
+8083,Deck Boat,6.0,2.0,77,49334.99999999999,Denmark , Svendborg,new,5
+8084,Pilothouse,7.1,2.45,162,49729.5,Germany , auf Anfrage,new,4
+8088,Bowrider,5.7,2.05,267,54944.505,Switzerland , Vierwaldst¤ttersee ,new,4
+8089,Pilothouse,6.48,2.5,158,54939.01,Switzerland , Bouveret ,new,5
+8093,Deck Boat,7.23,2.55,51,49448.924999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+8094,Sport Boat,6.6,2.53,223,49439.25,Germany , Bayern ,new,4
+8095,Sport Boat,5.7,2.5,62,49439.25,France ," Chalon-sur-Sa´ne, France",new,4
+8098,Sport Boat,6.0,2.34,51,49342.5,Germany , Bayern ,new,4
+8105,Fishing Boat,6.4,2.3,112,54400.5,Switzerland , Lake of Zurich ,new,5
+8106,Fishing Boat,6.4,2.05,51,54400.5,Switzerland , Lake of Zurich ,new,5
+8107,Fishing Boat,6.55,2.54,173,54279.61,Switzerland , Neuenburgersee ,new,4
+8108,Bowrider,5.95,2.3,859,48969.475,Switzerland , Lake Constance ,new,5
+8110,Bowrider,5.99,2.21,79,48912.5,Germany ," Boote Pfister GmbH, Schwebheim / Schweinfurt",new,5
+8111,Bowrider,6.4,2.59,31,48912.5,France ," Arzon, Arzon",new,9
+8112,Sport Boat,6.38,2.44,43,51793.75,United Kingdom ," Lincoln, Lincoln",new,4
+8164,Cabin Boat,7.88,2.55,316,48373.924999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+8165,Pilothouse,6.4,2.46,164,48373.924999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+8166,Sport Boat,5.99,2.21,105,48373.924999999996,Germany , Bayern ,new,5
+8174,Sport Boat,7.23,2.55,34,48321.25,Germany , Niedersachsen ,new,4
+8176,Sport Boat,6.8,2.49,130,48267.5,Germany , Hock Boote,new,9
+8179,Pontoon Boat,7.15,2.5,76,48267.5,Italy , Dormelletto ,new,5
+8187,Fishing Boat,6.1,2.4,117,47837.5,Germany , Lake Constance ,new,6
+8188,Sport Boat,5.94,2.4,41,47837.5,Germany , Bayern ,new,4
+8194,Cabin Boat,6.02,2.34,110,47836.424999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+8195,Bowrider,6.05,2.2,180,47826.75,Germany , Ostsee ,new,4
+8196,Pilothouse,6.9,2.59,181,52817.94,Switzerland , Neuenburgersee ,new,6
+8201,Sport Boat,6.74,2.46,274,52642.1,Switzerland , Lake Constance ,new,4
+8202,Bowrider,5.94,2.54,44,47611.75,Germany , Bayern ,new,5
+8203,Bowrider,5.94,2.54,43,47611.75,Germany , Bayern ,new,5
+8204,Fishing Boat,6.5,2.38,176,52202.5,Switzerland , Lake Constance ,new,4
+8205,Bowrider,6.0,2.0,46,47046.99999999999,Denmark , Svendborg,new,4
+8206,Sport Boat,6.2,2.5,117,47515.0,Italy , Lake Garda ,new,4
+8208,Deck Boat,6.8,2.5,70,47434.375,Spain ," Ma³-Mah³n, Espagne",new,5
+8214,Bowrider,6.2,2.34,39,47192.5,Germany , Bayern ,new,4
+8218,Pontoon Boat,7.0,2.0,152,47133.375,Portugal ," Parchal, Portugal",new,5
+8223,Pilothouse,6.48,2.53,61,46966.75,Austria , Wiener Neustadt,new,4
+8225,Sport Boat,7.36,2.55,84,46948.475,Germany , Bnningstedt,new,4
+8227,Deck Boat,6.98,2.34,46,46762.5,Netherlands , Lemmer,new,5
+8229,Sport Boat,6.0,2.0,71,46188.99999999999,Denmark , Svendborg,new,4
+8231,Deck Boat,5.33,2.23,87,46619.525,Spain ," Hospitalet del Infante, Hospitalet del Infante",new,4
+8234,Sport Boat,5.65,2.35,169,51367.26,Switzerland , Lago Maggiore,new,4
+8235,Bowrider,6.05,2.3,123,46440.0,Germany , Bayern ,new,4
+8236,Pilothouse,5.75,2.54,150,51323.299999999996,Switzerland , Lake Constance ,new,5
+8237,Sport Boat,6.3,2.35,250,51255.162,Switzerland , Lake of Zurich ,new,4
+8238,Sport Boat,6.39,2.29,81,46375.5,Germany , Nordrhein-Westfalen ,new,5
+8239,Sport Boat,5.4,2.2,226,51225.489,Switzerland , Lake of Zurich ,new,6
+8243,Deck Boat,6.58,2.46,38,49000.0,United Kingdom ," Burton Waters, Burton Waters",new,4
+8246,Bowrider,5.7,2.26,115,46203.5,Germany , Mecklenburg-Vorpommern ,new,4
+8252,Bowrider,5.65,2.26,50,46117.5,Germany , Bayern ,new,4
+8255,Bowrider,5.65,2.3,127,46117.5,Germany , Bayern ,new,4
+8257,Bowrider,6.48,2.46,54,46010.0,Germany , Niedersachsen ,new,4
+8258,Sport Boat,7.13,2.46,222,50650.712,Switzerland , Bouveret,new,4
+8271,Sport Boat,7.67,2.44,49,45687.5,Germany , Kiel,new,4
+8273,Deck Boat,6.1,2.52,41,45199.45,Spain ," Palma, Espagne",new,6
+8301,Deck Boat,6.74,2.55,112,45148.924999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+8309,Motor Yacht,6.2,2.45,152,49345.1,Switzerland , Lake Geneva ,new,5
+8313,Pilothouse,6.5,2.4,64,44612.5,France ," LORIENT, LORIENT",new,6
+8315,Cabin Boat,6.02,2.34,99,44612.5,Germany , Kieler Bucht mit Fehmarn ,new,4
+8316,Bowrider,5.94,2.29,121,44612.5,Germany , Boote Pfister GmbH Schwebheim / Schweinfurt,new,4
+8320,Pilothouse,5.52,2.4,45,44577.025,France ," Vaux-sur-Seine, France",new,4
+8322,Motor Yacht,6.45,2.45,101,44499.625,Germany , Nordrhein-Westfalen ,new,6
+8323,Sport Boat,5.75,2.4,99,48982.43,Switzerland , Luganersee ,new,4
+8329,Pilothouse,6.5,2.43,35,44075.0,France ," les sables d olonne, les sables d olonne",new,4
+8333,Pilothouse,6.5,2.43,94,44075.0,France ," SAINT GILLES CROIX DE VIE, SAINT GILLES CROIX DE V",new,4
+8335,Bowrider,5.0,2.0,52,42757.0,Denmark , Svendborg,new,4
+8350,Center console boat,6.86,2.48,27,43000.0,France ," Dunkerque, France",new,5
+8366,Pilothouse,6.55,2.54,99,42998.924999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+8367,Cabin Boat,7.65,2.55,251,42892.5,Germany , Bayern ,new,6
+8373,Pilothouse,6.5,2.4,78,42892.5,France ," PORT LEUCATE, PORT LEUCATE",new,6
+8382,Pilothouse,5.79,2.46,43,42892.5,France ," Le Havre, France",new,5
+8383,Center console boat,6.04,2.26,26,42892.5,France ," SAINT GILLES CROIX DE VIE, France",new,4
+8386,Deck Boat,5.96,2.26,46,42892.5,France ," PORT LEUCATE, France",new,4
+8388,Center console boat,6.04,2.26,61,42892.5,France ," LES SABLES OLONNE, France",new,4
+8389,Center console boat,5.56,2.23,40,42892.5,France ," MARTIGUES, France",new,4
+8390,Cabin Boat,6.19,2.46,99,42892.5,Germany , Bayern ,new,4
+8395,Sport Boat,6.0,2.55,171,42892.5,Austria , Linz,new,7
+8401,Deck Boat,6.42,2.27,40,42462.5,Netherlands , Lemmer,new,5
+8407,Working Boat,4.51,1.75,46,42462.5,Germany ," Boote Jochum, M¼nchen",new,5
+8416,Launch,6.53,2.18,97,42462.5,Netherlands , Amsterdam,new,4
+8424,Sport Boat,6.6,2.45,83,42344.25,Germany , Gersthofen - Augsburg,new,4
+8428,Pilothouse,7.93,2.8,69,42087.325,Germany , Bnningstedt / Werft,new,4
+8431,Deck Boat,6.0,2.0,63,41925.0,France ," Rixheim, France",new,6
+8453,Deck Boat,6.74,2.55,68,41923.924999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+8456,Sport Boat,6.45,2.45,32,41817.5,Germany , Hock Boote,new,11
+8459,Sport Boat,6.39,2.29,137,41591.75,Germany , Ostsee ,new,6
+8460,Center console boat,6.04,2.26,24,41540.15,France ," LES SABLES OLONNE, France",new,4
+8468,Runabout,6.9,2.6,115,41333.75,Germany , Nordrhein-Westfalen ,new,5
+8471,Sport Boat,6.66,2.55,60,41215.5,Germany , Niedersachsen ,new,4
+8472,Pilothouse,6.38,2.44,80,43687.5,United Kingdom ," Burton Waters, Burton Waters",new,5
+8473,Center console boat,5.75,2.4,119,45489.808,Switzerland , Lake Geneva ,new,4
+8475,Pontoon Boat,6.0,2.0,64,41145.625,Portugal ," Parchal, Portugal",new,5
+8476,Fishing Boat,4.8,2.2,175,45376.611,Switzerland , Villarepos,new,4
+8478,Center console boat,6.9,2.5,91,40895.15,Netherlands , In verkoophaven,new,4
+8479,Center console boat,6.04,2.26,22,40875.799999999996,France ," LES SABLES OLONNE, France",new,4
+8493,Sport Boat,6.4,2.45,229,40839.25,Germany , Bayern ,new,4
+8497,Pilothouse,6.4,2.45,84,40742.5,France ," gRANVILLE, gRANVILLE",new,4
+8499,Center console boat,5.96,2.26,71,40742.5,France ," LEUCATE, France",new,4
+8501,Center console boat,6.04,2.26,81,40742.5,France ," ARZON, France",new,4
+8503,Sport Boat,6.3,2.5,156,40613.5,Germany , auf Anfrage,new,4
+8505,Pilothouse,6.19,2.46,1272,40446.875,Switzerland , Lake Constance ,new,4
+8506,Sport Boat,7.15,2.45,275,44586.43,Switzerland , Vierwaldst¤ttersee ,new,4
+8510,Center console boat,5.56,2.23,69,40312.5,France ," MARTIGUES, France",new,4
+8511,Sport Boat,7.12,2.44,93,40312.5,Germany , Kiel,new,4
+8521,Bowrider,6.23,2.4,106,39773.924999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+8529,Fishing Boat,6.55,2.5,258,43850.1,Switzerland , Neuenburgersee ,new,4
+8530,Sport Boat,6.9,2.55,90,39667.5,Germany , Hock Boote,new,8
+8535,Sport Boat,5.71,2.05,96,39667.5,Germany , Rostsock,new,5
+8536,Sport Boat,5.75,2.36,130,43784.159999999996,Switzerland , Luganersee ,new,4
+8541,Pilothouse,5.0,2.0,53,38896.0,Denmark , Svendborg,new,4
+8542,Hardtop,6.05,2.21,324,43410.5,Switzerland , Vierwaldst¤ttersee ,new,4
+8547,Sport Boat,5.5,2.29,29,39226.75,Germany , Ausstellungshalle Schweich,new,5
+8552,Pilothouse,6.4,2.45,29,38700.0,France ," GRANVILLE, France",new,4
+8560,Center console boat,5.18,2.36,54,38689.25,Spain ," Hospitalet del Infante, Espagne",new,5
+8563,Deck Boat,5.27,2.38,28,38633.35,Spain ," D©nia, Alicante",new,5
+8565,Bowrider,6.1,2.37,139,38592.5,Germany , Nordrhein-Westfalen ,new,7
+8569,Sport Boat,5.95,2.4,64,38592.5,Germany , Bayern ,new,4
+8573,Cabin Boat,6.02,2.34,36,38485.0,Germany , Niedersachsen ,new,4
+8574,Center console boat,6.04,2.26,110,38485.0,France ," SAINT GILLES CROIX DE VIE, France",new,4
+8582,Pilothouse,5.0,2.0,38,37323.0,Denmark , Svendborg,new,4
+8584,Bowrider,6.31,2.32,210,37646.5,Germany , auf Anfrage,new,4
+8632,Center console boat,5.46,2.36,30,37614.25,France ," Le Havre, France",new,5
+8636,Sport Boat,5.5,2.15,49,37560.5,Spain , Denia,new,5
+8637,Sport Boat,7.05,2.3,116,37517.5,Germany , Nordrhein-Westfalen ,new,6
+8639,Pilothouse,5.48,2.36,78,37517.5,Germany , Bayern ,new,4
+8643,Fishing Boat,5.75,2.44,214,41311.409999999996,Switzerland , Neuenburgersee ,new,4
+8647,Trawler,8.05,3.0,73,37098.25,Poland , ab Werk,new,4
+8649,Sport Boat,8.3,2.55,124,37087.5,Italy , Lake Garda ,new,5
+8656,Launch,7.2,2.3,86,37087.5,Netherlands , Hardenberg,new,12
+8662,Pilothouse,5.75,2.54,153,37086.424999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+8663,Sport Boat,5.75,2.36,125,40772.9,Switzerland , Luganersee ,new,4
+8665,Cabin Boat,5.7,2.15,139,40663.0,Switzerland , Lake Geneva ,new,5
+8668,Fishing Boat,6.6,2.1,147,40553.1,Switzerland , M¼hlehorn ,new,4
+8670,Pilothouse,6.6,2.5,73,36603.75,Germany , Nordrhein-Westfalen ,new,6
+8678,Sport Boat,6.3,2.35,147,36297.375,Germany , auf Anfrage,new,4
+8681,Bowrider,5.73,2.29,179,40003.6,Switzerland , Neuenburgersee ,new,4
+8685,Sport Boat,6.81,2.3,46,36012.5,Germany , Nordrhein-Westfalen ,new,4
+8689,Sport Boat,6.55,2.54,84,35832.975,Germany , Bayern ,new,6
+8696,Motor Yacht,5.55,2.29,160,39322.22,Switzerland , Neuenburgersee ,new,4
+8698,Center console boat,5.96,2.26,118,35501.875,Austria , Wr. Neustadt,new,4
+8699,Bowrider,7.2,2.5,207,35491.125,Germany , Lake Constance ,new,4
+8706,Bowrider,5.5,2.22,114,35475.0,Germany , Bayern ,new,4
+8707,Bowrider,5.6,2.27,77,35464.25,Germany , Ostsee ,new,4
+8708,Sport Boat,5.55,2.29,34,35421.25,Germany , Ausstellungshalle Schweich,new,5
+8709,Sport Boat,5.65,2.2,57,35367.5,Germany , Baden-W¼rttemberg ,new,4
+8716,Motor Yacht,7.0,2.48,166,39014.5,Switzerland , Neuenburgersee ,new,4
+8719,Sport Boat,5.6,1.7,522,38904.6,Switzerland , Walensee ,new,4
+8724,Deck Boat,5.26,2.34,45,35053.6,Portugal ," Parchal, Portugal",new,6
+8726,Pilothouse,6.05,2.49,167,38421.04,Switzerland , Lake Constance ,new,4
+8729,Deck Boat,5.9,2.48,146,34937.5,Germany , Hock Boote,new,9
+8731,Sport Boat,6.9,2.6,50,34937.5,Germany , Erftstadt,new,5
+8733,Pilothouse,5.52,2.4,79,34926.75,Austria , Wiener Neustadt,new,4
+8739,Sport Boat,6.05,2.2,151,38454.01,Switzerland , Safenwil,new,4
+8741,Center console boat,5.68,2.54,110,38355.1,Switzerland , Brienzersee ,new,5
+8743,Bowrider,5.6,2.25,279,38245.2,Switzerland , Bielersee ,new,6
+8744,Center console boat,4.93,2.22,202,34518.25,Germany , Lake Constance ,new,4
+8745,Deck Boat,6.5,2.16,241,34517.174999999996,Netherlands , Werft,new,4
+8746,Pilothouse,5.64,2.45,49,34464.5,France ," Dunkerque, Dunkerque",new,5
+8760,Pontoon Boat,8.0,3.5,52,34400.0,Germany , 15754 Heidesee,new,7
+8764,Deck Boat,5.6,2.23,228,34061.375,Germany , Bayern ,new,4
+8766,Bowrider,5.15,2.08,196,37530.85,Switzerland , Vierwaldst¤ttersee ,new,5
+8767,Bowrider,5.0,2.0,121,33605.0,Denmark , Svendborg,new,5
+8770,Pontoon Boat,6.5,2.42,126,33862.5,Italy , Dormelletto ,new,4
+8771,Pontoon Boat,6.5,2.42,80,33862.5,Switzerland , Ginevra ,new,4
+8772,Deck Boat,5.46,2.39,45,35862.5,United Kingdom ," Burton Waters, Burton Waters",new,4
+8773,Motor Yacht,5.55,2.29,129,37366.0,Switzerland , Neuenburgersee ,new,4
+8775,Pilothouse,6.5,2.48,154,37366.0,Switzerland , Neuenburgersee ,new,4
+8776,Fishing Boat,6.97,2.81,125,33776.5,Italy , Campania ,new,5
+8777,Bowrider,6.15,2.29,89,33755.0,Germany , auf Anfrage,new,4
+8778,Bowrider,5.33,2.17,96,33753.924999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+8781,Center console boat,7.04,2.51,81,33432.5,Germany , auf Anfrage,new,7
+8782,Pontoon Boat,5.3,2.2,120,36926.4,Switzerland , Luganersee ,new,4
+8783,Center console boat,7.74,2.52,59,33388.424999999996,Germany , Bnningstedt,new,4
+8789,Deck Boat,6.12,2.4,114,33323.924999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+8790,Sport Boat,5.47,2.29,89,33217.5,Germany , Bayern ,new,5
+8792,Deck Boat,7.23,2.55,176,32786.424999999996,Germany , Kieler Bucht mit Fehmarn ,new,4
+8794,Runabout,6.3,2.1,172,36157.1,Switzerland , Zugersee ,new,4
+8795,Bowrider,6.3,2.35,123,32631.625,Germany , auf Anfrage,new,4
+8796,Runabout,5.3,2.3,245,36047.2,Switzerland , Zugersee ,new,4
+8801,Pilothouse,6.22,2.44,34,34368.75,United Kingdom ," Gillingham, Gillingham",new,6
+8802,Deck Boat,5.0,2.0,54,32031.999999999996,Denmark , Svendborg,new,4
+8803,Motor Yacht,5.3,2.2,183,35497.7,Switzerland , Bielersee ,new,5
+8823,Deck Boat,8.77,2.66,68,32244.625,Netherlands ," Bezichtiging op afspraak, call us for a visit, Bes",new,7
+8827,Bowrider,5.46,2.1,86,32239.25,Germany , Schleswig-Holstein ,new,4
+8833,Sport Boat,6.45,2.45,152,32142.5,Germany , Hock Boote,new,9
+8834,Sport Boat,5.65,2.35,158,32142.5,Germany , Hock Boote,new,4
+8844,Bowrider,4.93,2.18,121,32142.5,Germany , Bayern ,new,4
+8850,Cabin Boat,6.19,2.46,145,32142.5,Germany , Bayern ,new,4
+8854,Deck Boat,5.9,2.5,132,31712.5,Italy , Venezia,new,4
+8861,Sport Boat,5.28,2.28,51,31712.5,Germany , Bayern ,new,5
+8864,Sport Boat,6.1,2.4,181,31712.5,Switzerland , Lake Constance ,new,4
+8879,Launch,6.0,2.0,76,31245.499999999996,Denmark , Svendborg,new,4
+8880,Motor Yacht,6.12,2.4,183,34651.47,Switzerland , Neuenburgersee ,new,4
+8882,Sport Boat,6.4,2.48,62,31341.625,Germany , Bnningstedt,new,4
+8884,Pontoon Boat,6.7,2.55,203,31175.0,Italy , Friuli Venezia Giulia ,new,5
+8885,Sport Boat,5.1,2.15,40,31175.0,Germany ," FA. SIEGEL, GUMMERSBACH, FA. SIEGEL, GUMMERSBACH",new,5
+8904,Sport Boat,5.6,2.27,54,31164.25,Germany , Schleswig-Holstein ,new,4
+8907,Cabin Boat,6.5,2.55,350,31067.5,Germany , Stadtprozelten,new,5
+8908,Pontoon Boat,6.55,1.79,94,31067.5,Germany , Baden-W¼rttemberg ,new,5
+8915,Bowrider,6.4,2.48,58,30519.25,Slovak Republic ," Bratislava, Slovaquie",new,6
+8916,Motor Yacht,5.23,2.17,189,33728.31,Switzerland , Lake Geneva ,new,4
+8918,Center console boat,5.0,2.0,116,30029.999999999996,Denmark , Svendborg,new,4
+8920,Deck Boat,6.18,2.44,59,30100.0,Italy , Friuli Venezia Giulia ,new,5
+8933,Pontoon Boat,7.02,2.42,132,30100.0,Italy , Friuli Venezia Giulia ,new,4
+8943,Sport Boat,5.95,2.4,60,30050.55,Germany , Niedersachsen ,new,4
+8944,Pilothouse,6.4,2.45,218,29883.925,Germany , Kieler Bucht mit Fehmarn ,new,4
+8945,Bowrider,5.66,2.17,139,29868.875,Germany , auf Anfrage,new,4
+8949,Deck Boat,7.23,2.55,101,29776.425,Germany , Kieler Bucht mit Fehmarn ,new,4
+8951,Motor Yacht,5.3,2.14,167,32860.1,Switzerland , Yvonand ,new,4
+8952,Center console boat,4.6,2.0,91,32860.1,Switzerland , Murtensee ,new,4
+8953,Sport Boat,6.05,2.25,47,29729.125,Germany , Nordrhein-Westfalen ,new,5
+8963,Launch,6.1,2.3,71,29562.5,Germany , DE,new,4
+8967,Cabin Boat,5.5,2.29,272,29561.425,Germany , Kieler Bucht mit Fehmarn ,new,4
+8970,Motor Yacht,6.5,2.55,124,29551.75,Germany , DE,new,5
+8971,Pilothouse,6.0,2.25,265,32640.3,Switzerland , Lake Geneva ,new,5
+8988,Bowrider,5.26,2.36,58,29023.925,Germany , Niedersachsen ,new,5
+8989,Deck Boat,6.45,2.45,109,29003.5,Germany , Hock Boote,new,9
+8990,Sport Boat,5.9,2.48,129,28917.5,Germany , Hock Boote,new,9
+8991,Sport Boat,6.45,2.45,46,28917.5,Germany , Hock Boote,new,9
+8992,Sport Boat,5.3,2.3,47,28917.5,Germany , Hock Boote,new,6
+8993,Cabin Boat,6.1,2.37,156,28917.5,Germany , Nordrhein-Westfalen ,new,6
+8994,Bowrider,5.33,2.17,66,28917.5,Germany , Niedersachsen ,new,4
+8995,Cabin Boat,6.02,2.34,87,28917.5,Germany , 1,new,4
+9000,Bowrider,4.9,1.98,141,28917.5,Germany , Bayern ,new,4
+9008,Pilothouse,6.84,2.5,146,28487.5,Germany , auf Anfrage,new,4
+9011,Sport Boat,6.02,2.34,128,28487.5,Germany , 1,new,4
+9012,Bowrider,6.2,2.34,102,28380.0,Germany , Niedersachsen ,new,4
+9016,Working Boat,5.0,2.0,99,27884.999999999996,Denmark , Svendborg,new,4
+9029,Sport Boat,5.55,2.29,105,27948.925,Germany , Kieler Bucht mit Fehmarn ,new,5
+9031,Bowrider,5.33,2.17,207,27948.925,Germany , Kieler Bucht mit Fehmarn ,new,4
+9033,Sport Boat,5.02,2.12,33,27939.25,Germany , Ausstellungshalle Schweich,new,5
+9034,Sport Boat,5.02,2.12,35,27896.25,Germany , Ausstellungshalle Schweich,new,5
+9036,Sport Boat,6.4,2.52,106,27606.0,France ," AGDE, France",new,5
+9039,Motor Yacht,4.85,1.95,143,30420.32,Switzerland , Yvonand ,new,4
+9040,Cabin Boat,6.2,2.44,97,27509.25,Germany , Bayern ,new,4
+9041,Sport Boat,6.08,2.35,154,27412.5,Germany , Erftstadt,new,5
+9047,Bowrider,6.15,2.3,261,27294.25,Germany , Konstanz-Dettingen,new,5
+9048,Bowrider,4.0,2.0,104,26883.999999999996,Denmark , Svendborg,new,4
+9049,Motor Yacht,5.9,2.5,91,29881.809999999998,Switzerland , Lake Geneva ,new,5
+9055,Deck Boat,5.9,2.5,127,26875.0,Italy , Venezia,new,4
+9078,Pilothouse,6.55,2.54,113,26873.925,Germany , Kieler Bucht mit Fehmarn ,new,4
+9079,Deck Boat,6.74,2.55,146,26873.925,Germany , Kieler Bucht mit Fehmarn ,new,4
+9080,Sport Boat,6.5,2.4,160,26873.925,Germany , Nordrhein-Westfalen ,new,4
+9083,Center console boat,6.77,2.48,62,26864.25,Germany , Bnningstedt,new,4
+9088,Fishing Boat,6.28,2.24,1430,29453.2,Switzerland , Lake Geneva ,new,4
+9102,Sport Boat,6.06,2.2,192,26391.25,Germany , Nordrhein-Westfalen ,new,7
+9103,Center console boat,6.1,2.4,83,26391.25,Italy , Friuli Venezia Giulia ,new,4
+9104,Motor Yacht,5.7,2.15,189,29123.5,Switzerland , Neuenburgersee ,new,4
+9112,Cabin Boat,5.5,2.29,92,26337.5,Germany , Niedersachsen ,new,4
+9121,Sport Boat,5.41,2.12,46,26230.0,Germany , Niedersachsen ,new,4
+9123,Working Boat,6.0,1.9,153,28574.0,Switzerland , Thunersee ,new,9
+9130,Sport Boat,5.75,2.26,203,25789.25,Germany , Bayern ,new,4
+9133,Motor Yacht,4.85,1.95,221,28486.079999999998,Switzerland , Neuenburgersee ,new,4
+9134,Center console boat,5.6,2.05,111,28486.079999999998,Switzerland , Neuenburgersee ,new,4
+9135,Motor Yacht,4.85,1.95,152,28486.079999999998,Switzerland , Neuenburgersee ,new,4
+9139,Launch,5.8,2.25,84,25746.25,Germany , DE,new,4
+9141,Center console boat,5.0,2.0,59,25453.999999999996,Denmark , Svendborg,new,5
+9142,Sport Boat,5.5,2.24,106,25692.5,Germany , auf Anfrage,new,5
+9145,Bowrider,5.2,1.9,82,25692.5,Germany , Lake Constance ,new,4
+9148,Cabin Boat,5.0,2.0,68,25310.999999999996,Denmark , Svendborg,new,4
+9149,Fishing Boat,5.45,2.16,352,28246.498,Switzerland , Bouveret,new,4
+9150,Fishing Boat,6.28,2.24,260,28244.3,Switzerland , Lake Geneva ,new,4
+9151,Launch,7.5,2.5,127,25531.25,Germany , DE,new,4
+9158,Fishing Boat,5.06,2.13,199,27365.1,Switzerland , Bouveret,new,4
+9167,Cabin Boat,5.0,2.0,59,24452.999999999996,Denmark , Svendborg,new,4
+9170,Launch,7.5,2.5,111,24671.25,Germany , DE,new,4
+9181,Cabin Boat,5.6,2.35,89,24617.5,Slovenia , LJUBLJANA,new,5
+9186,Cabin Boat,4.44,2.12,68,24187.5,Germany , Bayern ,new,4
+9188,Launch,8.5,2.74,110,24187.5,Netherlands , Loosdrecht,new,4
+9193,Cabin Boat,5.5,2.29,152,24186.425,Germany , Kieler Bucht mit Fehmarn ,new,4
+9194,Cabin Boat,5.0,2.0,57,23880.999999999996,Denmark , Svendborg,new,4
+9196,Fishing Boat,5.5,1.65,259,26441.94,Switzerland , Walensee ,new,6
+9198,Deck Boat,5.27,2.38,122,23851.024999999998,Belgium ," Nieuwpoort, Belgique",new,5
+9199,Deck Boat,5.0,2.0,88,23594.999999999996,Denmark , Svendborg,new,4
+9203,Sport Boat,5.7,2.38,244,26156.2,Switzerland , Lake of Zurich ,new,4
+9211,Motor Yacht,5.9,2.5,127,23596.25,Germany , DE,new,5
+9212,Fishing Boat,4.51,1.75,31,23596.25,Germany ," Boote Jochum, M¼nchen",new,5
+9217,Cabin Boat,5.0,2.0,163,23165.999999999996,Denmark , Svendborg,new,4
+9219,Deck Boat,7.2,2.5,210,23381.25,Germany , DE,new,4
+9222,Motor Yacht,5.07,2.12,262,25782.54,Switzerland , Neuenburgersee ,new,4
+9223,House Boat,8.8,3.0,232,23327.5,Poland , Nieuwbouw,new,4
+9225,Deck Boat,6.74,2.55,111,23326.425,Germany , Kieler Bucht mit Fehmarn ,new,4
+9226,Motor Yacht,4.54,1.85,200,25551.75,Switzerland , Neuenburgersee ,new,4
+9235,Working Boat,5.0,2.0,121,22865.699999999997,Denmark , Svendborg,new,4
+9245,Cabin Boat,5.02,2.12,206,22573.925,Germany , Kieler Bucht mit Fehmarn ,new,4
+9247,Sport Boat,5.07,2.12,88,22467.5,Germany , Ausstellungshalle Schweich,new,7
+9249,Sport Boat,4.54,1.85,68,22467.5,Germany , Ausstellungshalle Schweich,new,5
+9250,Sport Boat,4.54,1.85,62,22413.75,Germany , Ausstellungshalle Schweich,new,5
+9257,Bowrider,6.2,2.34,127,22358.925,Germany , Kieler Bucht mit Fehmarn ,new,4
+9258,Launch,7.1,2.5,149,22306.25,Germany , DE,new,4
+9260,Pontoon Boat,5.16,2.44,86,22265.399999999998,Portugal ," Parchal, Portugal",new,5
+9268,Sport Boat,4.2,1.75,228,23958.2,Switzerland , Walensee ,new,6
+9283,Deck Boat,6.12,2.4,197,21498.925,Germany , Kieler Bucht mit Fehmarn ,new,4
+9285,Deck Boat,5.0,2.3,123,21489.25,Germany , Hock Boote,new,7
+9289,Deck Boat,5.03,2.12,96,21489.25,Germany , Mecklenburg-Vorpommern ,new,4
+9290,Center console boat,5.07,2.12,93,21489.25,Slovenia , LJUBLJANA,new,6
+9293,Sport Boat,7.3,2.48,97,21392.5,Germany , Berlin ,new,15
+9298,Sport Boat,5.5,2.15,167,23623.005,Switzerland , Bouveret,new,4
+9302,Deck Boat,5.07,2.12,154,21283.925,Germany , Kieler Bucht mit Fehmarn ,new,4
+9304,Sport Boat,5.65,2.3,289,23408.7,Switzerland , Lake of Zurich ,new,4
+9310,Center console boat,6.2,2.18,168,20962.5,Italy ," Nautica Zabeo - ShowBoat Marghera Venezia, Venezia",new,4
+9315,Working Boat,4.51,1.75,47,20962.5,Germany ," Boote Jochum, M¼nchen",new,5
+9325,Deck Boat,5.75,2.34,201,20597.0,Italy , Toscana ,new,4
+9329,Center console boat,6.2,2.18,57,20425.0,Italy , Venezia,new,4
+9331,Center console boat,5.8,2.37,115,20425.0,Italy , Venezia,new,4
+9343,Sport Boat,5.53,2.2,100,20371.25,Germany , Grevenbroich,new,8
+9347,Sport Boat,5.6,2.25,91,20317.5,Germany , Hock Boote,new,7
+9366,Sport Boat,5.2,2.22,185,19886.425,Germany , Nordrhein-Westfalen ,new,4
+9368,Center console boat,5.03,2.12,300,21969.01,Switzerland , Lake Geneva ,new,4
+9377,Runabout,5.65,2.3,129,19778.925,Germany , Lake Constance ,new,6
+9378,Sport Boat,6.1,2.5,218,19763.875,Germany , Bayern ,new,7
+9379,Classic,6.0,1.65,129,19672.5,Switzerland , Lake Constance ,new,3
+9380,Sport Boat,5.03,2.12,78,19638.1,Germany , Niedersachsen ,new,4
+9383,Center console boat,6.0,2.38,183,19565.0,Italy , Lombardia - Trentino Alto Adige ,new,5
+9384,Center console boat,4.49,1.92,144,21611.835,Switzerland , Murtensee ,new,4
+9390,Launch,5.0,1.85,133,19344.625,Netherlands , Pingjum/ binnenkort Sneek,new,4
+9393,Motor Yacht,5.1,2.1,223,21210.7,Switzerland , Bielersee ,new,5
+9394,Launch,6.5,2.25,123,19296.25,Germany , DE,new,4
+9395,Sport Boat,4.0,1.95,109,19296.25,Germany , Bayern ,new,5
+9398,Sport Boat,5.66,2.1,126,19242.5,Germany , auf Anfrage,new,4
+9399,Sport Boat,6.35,2.45,149,19242.5,Italy , Lombardia - Trentino Alto Adige ,new,4
+9401,Fishing Boat,5.04,2.18,76,19242.5,Germany , Berlin ,new,5
+9407,Center console boat,6.2,2.18,102,19027.5,Italy , Lombardia - Trentino Alto Adige ,new,5
+9408,Bowrider,5.21,2.36,77,18909.25,Slovak Republic ," Bratislava, Slovaquie",new,6
+9412,Bowrider,4.0,1.7,52,18812.5,Germany , Bayern ,new,6
+9418,Bowrider,5.2,2.1,243,20661.2,Switzerland , Lake of Zurich ,new,4
+9420,Launch,4.0,2.0,106,18304.0,Denmark , Svendborg,new,4
+9422,Deck Boat,7.5,1.8,146,20331.5,Switzerland , Diessenhofen,new,5
+9435,Bowrider,5.46,1.92,222,20111.7,Switzerland , Bouveret,new,4
+9437,Deck Boat,5.9,2.48,104,18167.5,Germany , Hock Boote,new,9
+9438,Deck Boat,4.7,1.9,91,18167.5,Germany , Hock Boote,new,7
+9440,Cabin Boat,5.7,2.35,259,18167.5,Germany , Main ,new,9
+9443,Sport Boat,5.1,2.15,88,18081.5,Germany ," FA. SIEGEL, GUMMERSBACH, FA. SIEGEL, GUMMERSBACH",new,5
+9446,Deck Boat,6.15,2.3,117,18006.25,Germany , DE,new,4
+9453,Pontoon Boat,6.5,2.29,103,17898.75,Italy , Dormelletto ,new,6
+9456,Sport Boat,4.9,2.08,228,19712.763,Switzerland , Lake of Zurich ,new,4
+9458,Pilothouse,5.4,2.38,180,19672.1,Switzerland , Brienzersee ,new,5
+9460,Center console boat,5.7,2.18,143,17737.5,Italy , Venezia,new,4
+9461,Deck Boat,5.7,2.1,64,17737.5,Italy , Venezia,new,4
+9481,Deck Boat,6.12,2.4,111,17198.925,Germany , Kieler Bucht mit Fehmarn ,new,5
+9482,Sport Boat,5.7,2.5,107,17189.25,Germany , Berlin ,new,7
+9484,Sport Boat,4.45,1.85,410,18955.552,Switzerland , Murtensee ,new,4
+9489,Sport Boat,4.7,1.95,93,17092.5,Germany , Baden-W¼rttemberg ,new,6
+9496,Deck Boat,6.1,2.3,79,16931.25,Germany , DE,new,4
+9499,Pilothouse,5.0,1.96,168,18681.900999999998,Switzerland , Lake of Zurich ,new,5
+9501,Center console boat,4.3,1.8,159,18529.14,Switzerland , Lake Constance ,new,4
+9503,Center console boat,5.7,2.18,101,16662.5,Italy , Venezia,new,4
+9526,Sport Boat,4.99,2.1,132,16123.925,Germany , Wesel,new,4
+9534,Center console boat,3.55,1.22,101,15985.25,Germany , Bayern ,new,4
+9540,Launch,4.0,1.0,83,15728.569999999998,Denmark , Svendborg,new,4
+9549,Working Boat,5.5,2.17,354,15641.25,Germany , Erftstadt,new,4
+9550,Sport Boat,5.3,2.24,141,15587.5,Italy , Friuli Venezia Giulia ,new,6
+9557,Sport Boat,5.28,2.28,101,15587.5,Germany , Bayern ,new,5
+9568,Deck Boat,5.55,2.29,223,15048.925,Germany , Kieler Bucht mit Fehmarn ,new,4
+9572,Deck Boat,5.65,2.35,174,14942.5,Germany , Hock Boote,new,5
+9575,Center console boat,4.5,2.18,58,14942.5,Slovenia , LJUBLJANA,new,5
+9585,Fishing Boat,5.03,2.08,229,16430.05,Switzerland , Murtensee ,new,4
+9587,Sport Boat,5.5,2.17,165,14835.0,Germany , Erftstadt,new,4
+9588,Pontoon Boat,6.5,2.29,82,14835.0,Italy , Dormelletto ,new,6
+9592,Center console boat,5.2,2.06,203,16375.1,Switzerland , Lago Maggiore ,new,4
+9595,Bowrider,5.7,2.1,434,15935.5,Switzerland , Kriens,new,4
+9596,Bowrider,5.9,2.2,344,15935.5,Switzerland , Kriens,new,4
+9598,Bowrider,4.9,1.95,146,15932.203,Switzerland , Murtensee ,new,6
+9600,Sport Boat,6.2,2.18,195,14190.0,Italy , Lago,new,6
+9601,Sport Boat,5.9,2.5,232,14190.0,Italy , Lake Garda ,new,5
+9602,Sport Boat,5.1,2.1,182,14190.0,Germany , Baden-W¼rttemberg ,new,4
+9605,Deck Boat,5.5,2.17,174,14028.75,Germany , Ab Werft,new,4
+9619,Deck Boat,5.4,2.3,231,13867.5,Germany , Hock Boote,new,5
+9620,Deck Boat,5.4,2.3,216,13867.5,Germany , Hock Boote,new,5
+9630,Deck Boat,5.3,2.3,113,13432.125,Germany , Hock Boote,new,9
+9632,Fishing Boat,4.26,1.76,200,14836.5,Switzerland , Lake of Zurich ,new,5
+9637,Fishing Boat,4.4,1.9,119,13222.5,Germany , Berlin ,new,5
+9638,Center console boat,5.6,2.15,123,13222.5,Italy , Lake Garda ,new,4
+9640,Center console boat,5.5,2.1,528,14506.8,Switzerland , Lake of Zurich ,new,4
+9641,Sport Boat,5.3,2.15,88,13061.25,Germany , Grevenbroich,new,8
+9642,Deck Boat,4.0,1.0,98,12868.57,Denmark , Svendborg,new,5
+9661,Sport Boat,6.15,2.46,193,12792.5,Austria , Linz,new,38
+9663,Deck Boat,4.8,2.0,124,12781.75,Slovak Republic ," Bratislava, Slovaquie",new,7
+9666,Sport Boat,6.1,2.5,296,12685.0,Germany , Hamburg ,new,4
+9667,Fishing Boat,4.93,1.87,215,14012.25,Switzerland , Lake Geneva ,new,4
+9668,Center console boat,4.37,1.82,108,12577.5,Slovenia , LJUBLJANA,new,5
+9669,Cabin Boat,5.05,2.12,295,12576.425,Germany , Kieler Bucht mit Fehmarn ,new,4
+9677,Center console boat,4.26,1.76,109,12362.5,Slovenia , LJUBLJANA,new,5
+9681,Fishing Boat,4.58,1.84,218,13627.6,Switzerland , Bouveret,new,5
+9695,Sport Boat,4.72,2.05,109,11706.75,Germany , auf Anfrage,new,4
+9696,Deck Boat,5.4,2.1,85,11634.725,Netherlands , Lemmer,new,5
+9697,Deck Boat,5.0,2.3,206,11610.0,Germany , Hock Boote,new,9
+9699,Sport Boat,4.75,1.95,289,12748.4,Switzerland , Lake of Zurich ,new,4
+9704,Sport Boat,4.95,1.9,274,12528.6,Switzerland , Vierwaldst¤ttersee ,new,5
+9709,Sport Boat,4.8,1.85,56,11276.75,Germany , Bnningstedt,new,4
+9710,Bowrider,4.8,1.85,147,11276.75,Germany , Bnningstedt,new,4
+9711,Sport Boat,2.79,1.18,174,11273.525,Austria , Linz,new,5
+9714,Fishing Boat,4.4,1.9,107,11180.0,Germany , Berlin ,new,5
+9715,Deck Boat,5.5,2.29,208,11072.5,Italy , Friuli Venezia Giulia ,new,4
+9721,Fishing Boat,4.25,1.7,124,10748.925,Germany , Nordrhein-Westfalen ,new,4
+9724,Deck Boat,5.3,2.1,256,10739.25,Germany , Gersthofen ,new,4
+9730,Sport Boat,4.88,2.03,109,10723.125,Germany , Grevenbroich,new,8
+9731,Sport Boat,4.45,1.95,345,10696.25,Germany , Wesel,new,4
+9732,Cabin Boat,4.44,1.85,228,10690.875,Germany , Gummersbach,new,4
+9741,Sport Boat,4.85,1.82,240,10641.425,Germany , Nordrhein-Westfalen ,new,5
+9742,Working Boat,4.77,1.68,41,10588.75,Germany , Taufkirchen,new,5
+9746,Sport Boat,5.6,2.16,287,10535.0,Italy , Lake Garda ,new,6
+9750,Pontoon Boat,5.4,2.22,143,10158.75,Italy , Dormelletto ,new,6
+9752,Center console boat,4.0,1.0,62,9938.5,Denmark , Svendborg,new,5
+9753,Fishing Boat,4.4,1.75,263,11088.91,Switzerland , Murtensee ,new,5
+9754,Fishing Boat,4.01,1.5,156,11082.315999999999,Switzerland , Murtensee ,new,5
+9758,Sport Boat,3.55,2.0,169,10935.05,Switzerland , Neuenburgersee ,new,4
+9778,Launch,5.43,2.15,148,9083.75,Germany , DE,new,4
+9782,Center console boat,5.2,1.92,288,8922.5,Italy , Lombardia - Trentino Alto Adige ,new,4
+9793,Sport Boat,5.3,2.15,214,8589.25,Germany , Nordrhein-Westfalen ,new,5
+9794,Deck Boat,5.2,1.92,125,8546.25,Italy , Lake Garda ,new,5
+9801,Fishing Boat,5.35,2.3,116,8437.675,Germany , Grevenbroich,new,8
+9802,Deck Boat,4.62,1.87,224,8051.75,Germany , Bnningstedt,new,4
+9809,Launch,4.01,1.5,222,8781.01,Switzerland , Lake of Zurich ,new,4
+9812,Sport Boat,4.52,1.95,151,7836.75,Germany , Bayern ,new,4
+9813,Fishing Boat,4.1,1.8,85,7740.0,Germany , Berlin ,new,5
+9814,Deck Boat,4.85,1.72,123,7632.5,France ," BREST, France",new,5
+9815,Fishing Boat,3.8,1.5,235,8319.43,Switzerland , Murtensee ,new,5
+9825,Working Boat,4.6,2.0,194,7471.25,Germany , Erftstadt,new,4
+9832,Fishing Boat,4.7,1.9,243,7682.01,Switzerland , Romanel,new,4
+9838,Center console boat,5.0,2.05,379,6772.5,Germany , Berlin ,new,4
+9841,Launch,4.85,1.9,169,6718.75,Germany , DE,new,4
+9850,Pontoon Boat,5.0,2.1,156,6396.25,Italy , Dormelletto,new,6
+9854,Cabin Boat,5.0,2.0,147,6342.5,Italy ," peschiera borromeo, Lombardia",new,36
+9872,Sport Boat,5.1,2.16,203,5158.925,Germany , Wesel,new,4
+9873,Working Boat,3.64,1.37,41,5158.925,Germany , Bayern ,new,5
+9874,Fishing Boat,3.55,1.46,56,5149.25,Germany , Bayern ,new,5
+9885,Sport Boat,4.4,1.8,354,4836.425,Germany , Nordrhein-Westfalen ,new,4
+9886,Pontoon Boat,4.37,1.89,266,4622.5,Italy , Dormelletto ,new,6
+9887,Fishing Boat,3.6,1.6,194,4154.22,Switzerland , Brienzersee ,new,5
