@@ -38,10 +38,10 @@ https://www.kaggle.com/datasets/karthikbhandary2/boat-sales?resource=download
 
 ## Analysis Criteria
 You’ll conduct the following analyses:
-● Exploratory analysis through visualizations (scatterplots, correlation heatmaps, pair plots, and categorical plots);
-● Geospatial analysis using a shapefile;
-● Regression analysis;
-● Cluster analysis;
-● Time-series analysis;
-● Analysis narrative and final results (presented in your dashboard).
+- Exploratory analysis through visualizations (scatterplots, correlation heatmaps, pair plots, and categorical plots);
+- Geospatial analysis using a shapefile;
+- Regression analysis;
+- Cluster analysis;
+- Time-series analysis;
+- Analysis narrative and final results (presented in your dashboard).
 
