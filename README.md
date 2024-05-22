@@ -6,18 +6,18 @@ https://public.tableau.com/app/profile/tony.soewignjo/viz/BoatSalesAnalysis_1715
 ## Introduction
 This is a data analysis project using Python and the result is visualized in Tableau Dashboard. <br> <br>
 Modules used:
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import matplotlib
-import matplotlib.pyplot as plt
-import os
-import sklearn
-from sklearn.model_selection import train_test_split 
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_squared_error, r2_score
-from sklearn.cluster import KMeans 
-import pylab as pl 
+- import pandas as pd
+- import numpy as np
+- import seaborn as sns
+- import matplotlib
+- import matplotlib.pyplot as plt
+- import os
+- import sklearn
+- from sklearn.model_selection import train_test_split
+- from sklearn.linear_model import LinearRegression
+- from sklearn.metrics import mean_squared_error, r2_score
+- from sklearn.cluster import KMeans 
+- import pylab as pl 
 
 ## Objective
 To build an interactive dashboard visually showcasing well-curated results of an advanced exploratory analysis conducted in Python.
